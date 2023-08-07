@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; configuration.subtitle = "Regular"; ObjectID = "Krr-sq-n1f"; */
+"Krr-sq-n1f.configuration.subtitle" = "Fair";
+
+/* Class = "UIButton"; normalTitle = "Regular"; ObjectID = "Krr-sq-n1f"; */
+"Krr-sq-n1f.normalTitle" = "Fair";
+
+/* Class = "UIButton"; configuration.subtitle = "Super"; ObjectID = "NXa-OV-yA6"; */
+"NXa-OV-yA6.configuration.subtitle" = "Super";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NXa-OV-yA6"; */
+"NXa-OV-yA6.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.subtitle = "Bien"; ObjectID = "W1c-y5-TF4"; */
+"W1c-y5-TF4.configuration.subtitle" = "Good";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "W1c-y5-TF4"; */
+"W1c-y5-TF4.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "¿Cómo te encuentras hoy?"; ObjectID = "Y6W-Sz-oPL"; */
+"Y6W-Sz-oPL.text" = "How are you feeling today?";
+
+/* Class = "UIButton"; configuration.subtitle = "Agotado"; ObjectID = "dea-lA-HNQ"; */
+"dea-lA-HNQ.configuration.subtitle" = "Exhausted";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dea-lA-HNQ"; */
+"dea-lA-HNQ.normalTitle" = "Button";

@@ -1,0 +1,11 @@
+framework module WorkoutLib {
+  umbrella header "WorkoutLib.h"
+
+  export *
+  module * { export * }
+}
+
+module WorkoutLib.Swift {
+  header "WorkoutLib-Swift.h"
+  requires objc
+}
