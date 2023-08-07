@@ -32,7 +32,7 @@ Pod::Spec.new do |s|
   s.dependency  'YoutubePlayer-in-WKWebView', '0.3.4'
   s.dependency  'HCVimeoVideoExtractor', '0.0.1'
   s.dependency  'Instructions', '1.3.1'
-  s.dependency  'Charts', '5.0.0'
+  s.dependency  'DGCharts', '5.0.0'
   s.dependency  "Hero"
   # s.swift_version = "5.0"
   s.swift_versions = ['4.0', '4.2', '5.0']
