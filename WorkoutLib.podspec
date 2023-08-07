@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WorkoutLib'
-  s.version          = '1.0'
+  s.version          = '1.1'
   s.summary          = 'Intelligent, automatic, comprehensive, adaptive Training System'
 
 # This description is used to generate tags and improve search results.
@@ -20,9 +20,9 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://www.myvitale.com/'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Miguel Muñoz' => 'miguel.munoz@myvitale.com' }
-  s.source           = { :git => 'https://github.com/miguelmunozfer/WorkoutLib', :tag => "1.0" }
+  s.source           = { :git => 'https://github.com/miguelmunozfer/WorkoutLib', :tag => "1.1" }
   s.resources = ["**/*.lproj", "**/*.strings"]
-  s.ios.deployment_target = '11.0'
+  s.ios.deployment_target = '13.0'
   s.vendored_frameworks = 'WorkoutLib.xcframework', 'WeFitterLib.xcframework'
   s.dependency 'Alamofire', '5.4.0'
   s.dependency 'SwiftyJSON', '5.0.0'
@@ -32,7 +32,7 @@ Pod::Spec.new do |s|
   s.dependency  'YoutubePlayer-in-WKWebView', '0.3.4'
   s.dependency  'HCVimeoVideoExtractor', '0.0.1'
   s.dependency  'Instructions', '1.3.1'
-  s.dependency  'Charts', '3.6.0'
+  s.dependency  'Charts', '4.1.0'
   s.dependency  "Hero"
   s.dependency  'JWTDecode', '~> 2.6'
   # s.swift_version = "5.0"
