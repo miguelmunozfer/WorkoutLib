@@ -8600,14 +8600,14 @@
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/Extensions.swift",
       "kind": "FloatLiteral",
-      "offset": 6706,
+      "offset": 6205,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/Extensions.swift",
       "kind": "FloatLiteral",
-      "offset": 6741,
+      "offset": 6240,
       "length": 3,
       "value": "0.0"
     },
@@ -10637,7 +10637,7 @@
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Training.swift",
       "kind": "BooleanLiteral",
-      "offset": 2068,
+      "offset": 2061,
       "length": 5,
       "value": "false"
     },
