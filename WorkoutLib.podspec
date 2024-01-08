@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
   s.author           = { 'Miguel Muñoz' => 'miguel.munoz@myvitale.com' }
   s.source           = { :git => 'https://github.com/miguelmunozfer/WorkoutLib', :tag => "1.6" }
   s.resources = ["**/*.lproj", "**/*.strings"]
-  s.ios.deployment_target = '13.0'
+  s.ios.deployment_target = '12.0'
   s.vendored_frameworks = 'WorkoutLib.xcframework', 'WeFitterLib.xcframework'
   s.dependency 'Alamofire', '5.4.0'
   s.dependency 'SwiftyJSON', '5.0.0'
@@ -38,6 +38,6 @@ Pod::Spec.new do |s|
   s.swift_versions = ['4.0', '4.2', '5.0']
  # s.xcconfig = { 'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES' }
   s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
- s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
- # s.xcconfig = { 'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES' }
+  s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+#  s.xcconfig = { 'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES' }
 end
