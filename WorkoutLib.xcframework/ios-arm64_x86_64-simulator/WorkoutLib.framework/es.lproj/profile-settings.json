@@ -4,7 +4,9 @@
         "questions": [
             {
                 "title": "¿Cúal es tu objetivo?",
-                "type": "list",
+                "type": "multipleList",
+                "categoryIds": ["goal1", "goal2"],
+                "categoryTitles": ["Fitness", "Rendimiento"],
                 "identifier": "goal",
                 "info": "Podemos ofrecerte programas para adelgazar, aumentar tu masa muscular, mejorar tu rendimiento en un maratón… Dinos qué objetivo persigues y te ayudaremos a conseguirlo.",
                 "isMultipleSelection": false

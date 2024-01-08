@@ -4,7 +4,9 @@
         "questions": [
             {
                 "title": "What is your goal?",
-                "type": "list",
+                "type": "multipleList",
+                "categoryIds": ["goal1", "goal2"],
+                "categoryTitles": ["Fitness", "Rendimiento"],
                 "identifier": "goal",
                 "info": "We can offer you programs to lose weight, increase your muscle mass, improve your performance in a marathon... Tell us your goal and we will help you achieve it.",
                 "isMultipleSelection": false

@@ -4,7 +4,9 @@
         "questions": [
             {
                 "title": "¿Cúal es tu objetivo?",
-                "type": "list",
+                "type": "multipleList",
+                "categoryIds": ["goal1", "goal2"],
+                "categoryTitles": ["Fitness", "Rendimiento"],
                 "identifier": "goal",
                 "info": "activity_info",
                 "isMultipleSelection": false

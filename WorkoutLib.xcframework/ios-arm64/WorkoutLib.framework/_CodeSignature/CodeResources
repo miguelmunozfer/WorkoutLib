@@ -6,11 +6,11 @@
 	<dict>
 		<key>AlertItemView.nib</key>
 		<data>
-		BJ2LMZ9qt3tjQN5LWlcJFEZfjFU=
+		ZEDok1FaV7KfPZ0JtzRV+Nk+BJA=
 		</data>
 		<key>Assets.car</key>
 		<data>
-		HXL75bJwe8AML5YsD72PioMEPGU=
+		4PaGOjCFGvKOnL6q1CyzWHd5Rx8=
 		</data>
 		<key>Base.lproj/Leyenda.plist</key>
 		<data>
@@ -18,19 +18,23 @@
 		</data>
 		<key>Base.lproj/StartVirtualViewController.nib</key>
 		<data>
-		p4hLLWaCp6L8m1rXIUWMopcBKdQ=
+		faFHqn/mY+YP5xkBBsRibWDaH/I=
+		</data>
+		<key>Base.lproj/VirtualPTConfigViewController.nib</key>
+		<data>
+		E/FHCb3ywgmX4dPiw+9sS+cW4Ms=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/3Vc-dc-L4f-view-0O4-Or-U2B.nib</key>
 		<data>
-		pw0jqdhO1xuBTfxQeLKcBGjWt/4=
+		FqAKBmOuXiWIhVNBiF6aK7W5LVQ=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/CircuitViewController.nib</key>
 		<data>
-		X4ex39WnAoGkaEI8bvNUyLUatjA=
+		QiCDj8PBmI5JcV3sDVxRq5AxAFU=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/CyclesViewController.nib</key>
 		<data>
-		EfV7Rui1TUug+i7pMHol8YOyHz4=
+		JSY35ysut/C7HQJW0y04PovpPI4=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/Info.plist</key>
 		<data>
@@ -38,31 +42,31 @@
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/KYn-FO-tAv-view-IQo-L5-bdg.nib</key>
 		<data>
-		HSgD9jEdqA2BTLdXRHPyTJUww2Y=
+		VxMx9Rbgf1/B1DNqk69P2yLiOLU=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/LeyendaViewController.nib</key>
 		<data>
-		D03SNHnYj5O4miiP7SGifyoShKE=
+		tnsOHATKQ6uyDXpzscIWqea285w=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/Nmy-DG-5DK-view-bYG-Ql-zEj.nib</key>
 		<data>
-		Xeq4NUETLbbSdlHrYeC5uGemTW4=
+		x1ctY7pb538L5YrKgTQh2gpHKmE=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/SportPlanningViewController.nib</key>
 		<data>
-		KAnwDNVbSR65IoeCJKT4wooz1ks=
+		MHKB8NUzy4cBG0bLBOpGwuYzqLY=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/StepByStepPageContent.nib</key>
 		<data>
-		OzVEuURnM9wKC1kPUQp9AIe9NNk=
+		u82E8kHJwZwOYDj/j+DRfKOhKkQ=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/StepByStepPageController.nib</key>
 		<data>
-		JE2ju2QAOjQ58F+sOuS4DzoLFFw=
+		ZuslenG9IL3TNiXbr1JUsjdq85w=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/TrainerPlanningVC.nib</key>
 		<data>
-		RNImItOiqmyVG3XHD5yi87IDt1o=
+		4WWk2nVSsMqp1PGvp75bJhx+rvA=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/TrainingMenuVC.nib</key>
 		<data>
@@ -70,15 +74,15 @@
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/TrainingMenuViewController.nib</key>
 		<data>
-		mApOToxfvEj9W/NMwIEy0WUiS/E=
+		FqBTIfCqnBxrnnIc3iZfHasnpuE=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/VirtualPTConfigDiabetesViewController.nib</key>
 		<data>
-		0PN37/z2YrGEe9kFne6H8+2VVZY=
+		fTOJfBEoUpe+nsvBlw3Tklz9f9s=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/VirtualPTConfigViewController.nib</key>
 		<data>
-		1lah5LBfoECOgT1ocdpXY92R66M=
+		OISpI2ObY1TinVBR54Vy/q8zy/E=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/VirtualPTFinishViewController.nib</key>
 		<data>
@@ -86,35 +90,35 @@
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/Ywj-ua-jBJ-view-Z61-aD-gRb.nib</key>
 		<data>
-		5dCZCwym+1ofqj5hlBjAMpX5xmg=
+		//8gWOWYl0das7FZsvBmJN6MOKI=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/ZIK-IE-rOh-view-2zB-4q-skZ.nib</key>
 		<data>
-		qv1cdZHuOaXkkWK5TbBj/xIArqo=
+		Y/ssGTXvtzJiBI+9lBTMV18Li9Q=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/bTJ-tu-2Ef-view-sQw-8C-RPX.nib</key>
 		<data>
-		7yJUO4pbbn2JehLo/3JuZ8mPTgA=
+		906BnCBt8YfCfKdEk+qN7uNT2/4=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/dLd-fU-dx4-view-AH4-8Y-FIi.nib</key>
 		<data>
-		AuB07Ej/FiWnEHynOO2+WnvPXPI=
+		9zIYQ2IUdGsDuFtev78/Oq7v2KI=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/finishPageContent.nib</key>
 		<data>
-		ltuLIdjCZIaDNUiDjpbp+QehepQ=
+		ylLQ3T5dsWOeUMEXZc0JzA+AwdE=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/kfY-lM-9Mt-view-AWN-Hj-VsE.nib</key>
 		<data>
-		DBjnHGIPZuqDdWY3Jg0AFE16418=
+		RrqwW/P/1Etyxp7c7SF1XraiX0M=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/l5w-Fe-ux7-view-44s-RE-fWl.nib</key>
 		<data>
-		fsg1qPULCl4io/L06tM5AmOYM5c=
+		7cdsg1ISEkfjDffE+jdz+aocSQ8=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/oXp-p5-8SS-view-8Ox-Lr-Qu5.nib</key>
 		<data>
-		QPizKzdDwy6xToO+Mf/HWsNI0bk=
+		8E41NT8RP0lNPoTP5dNXizBX+Og=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/pageControl.nib</key>
 		<data>
@@ -122,19 +126,19 @@
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/tEy-YC-K6m-view-hLj-Mq-iZw.nib</key>
 		<data>
-		V+/7NtTKrN8hEXbgfFllEV8jzV4=
+		BAExc53OIp1Z3pJyFQO+KydyBTE=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/tYZ-Vm-1YX-view-FaZ-4D-52g.nib</key>
 		<data>
-		DyY9FA621lTGmu0t1ZJt+L0Hf58=
+		gtc3Mt+qtbPhRhEQdyMq8gp2RjA=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/vRb-8M-ekZ-view-n8b-DX-Tha.nib</key>
 		<data>
-		rYzweHUqFjzZ4LHiYXMQOOWm7aQ=
+		Pl1qHXTSTqjgCsktg28IuTkUwiE=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/workoutViewController.nib</key>
 		<data>
-		pA/u4X9ETDMi9gmocSx36+uXx5g=
+		0Mmoz3ICNABqbK2DdEar8z8l0NI=
 		</data>
 		<key>Base.lproj/VitaleVPTTutorial.plist</key>
 		<data>
@@ -142,55 +146,55 @@
 		</data>
 		<key>Base.lproj/WefitterAlertViewController.nib</key>
 		<data>
-		7Y90JO8Iw056N9edgV2xx8HU59s=
+		vPdd/Ts+I5D38DJVXQu4WNO/16Y=
 		</data>
 		<key>Base.lproj/WorkoutSummaryView.nib</key>
 		<data>
-		2L0FbbpgfYuIpz1BhSZGBXhUl9o=
+		W/wXpf1kuBvAi6WPR2eUHe63HUo=
 		</data>
 		<key>Base.lproj/profile-settings.json</key>
 		<data>
-		YHZ6aESKJtzWwvlp9lrTqt6dK40=
+		0T5OvWy8Qy8+5Sld7VnB4R8QxLY=
 		</data>
 		<key>ClassCategoriesViewController.nib</key>
 		<data>
-		t+rvJePdqKvZ6udYJPXF9fjZG4E=
+		Ga7Mhy2RB430ZXQnwfuMpsYUoNg=
 		</data>
 		<key>CurrentDayView.nib</key>
 		<data>
-		YbOeCNGekhCxZoSTRvMzUGEcKL0=
+		O2DWPuMIatRt/Wr373h5iZHusSo=
 		</data>
 		<key>CustomPageControl.nib</key>
 		<data>
-		QViz81pAm0JDghDFU/k+P06q/r4=
+		sfqRqQcYML+x/nry6S+camj66pU=
 		</data>
 		<key>DailyWorkoutCell.nib</key>
 		<data>
-		bZwxlunqGIRLzqtdOX9xXCg2psA=
+		2Dm7SHASFapq4ev+aO7CSDnqhKw=
 		</data>
 		<key>DailyWorkoutView.nib</key>
 		<data>
-		bnjbPZG0URugpYObE5508ql5jWI=
+		Q8dR5mkdfr5lARTrOpIY4cpgodA=
 		</data>
 		<key>DailyWorkoutsViewController.nib</key>
 		<data>
-		oyYsOm7JpX+x8Zc6njWl0VnODVM=
+		OzZrsB6vmi84zVa6TGoR5UIzWQE=
 		</data>
 		<key>EcareCell.nib</key>
 		<data>
-		Yxn+6t4CXkv0NmF3aAxXe9zPeKE=
+		JMmFsiafKbdQNOGjkTJxOOZ7l58=
 		</data>
 		<key>EcareViewController.nib</key>
 		<data>
-		CmvB/A9OxORXzq9ZwEyj67K3iiY=
+		XqN0HlDQfig0/wl5+whHZ5QlGkQ=
 		</data>
 		<key>ExerciseView.nib</key>
 		<data>
-		U1EIDIPCbgbteygDTcD222olCKQ=
+		CPDnSB/RzWOVZ1RGbED6BfRwDLU=
 		</data>
 		<key>Headers/WorkoutLib-Swift.h</key>
 		<data>
-		0h54vOzJ89WGjgWG3ZJ+Tjf62r8=
+		5YJjNprbLyjB4dX7OXiXkZNn4R8=
 		</data>
 		<key>Headers/WorkoutLib.h</key>
 		<data>
@@ -198,67 +202,71 @@
 		</data>
 		<key>HealthQuestionView.nib</key>
 		<data>
-		uVhfox2fOncHzlhWuaYq6KSlYNk=
+		HqnSFV9aNrTiHyKZCYJVF1ehkdg=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KGuSbwfUO0fEG1zbtw2Cr5uBOJo=
+		+T+39UH2uPmsLBgfUtYY6lIc73s=
 		</data>
 		<key>Modules/WorkoutLib.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		troMV9HvXdXaA4hQ/BOjyI+V7z0=
+		pz4zc3DkQbo/nW+Pq0D1u/Xnrcw=
 		</data>
 		<key>Modules/WorkoutLib.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		9tmj1embm+BtOGtbTpHgltmkQk8=
+		vamZJEL1u+C2/mnkM3Ojp8inFUo=
 		</data>
 		<key>Modules/WorkoutLib.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		R1s0fZnkaSz7SsUD0JWmDFNIJ6E=
+		vQRpD30U651/qUiVXHT0SnhOauk=
 		</data>
 		<key>Modules/WorkoutLib.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		9tmj1embm+BtOGtbTpHgltmkQk8=
+		vamZJEL1u+C2/mnkM3Ojp8inFUo=
 		</data>
 		<key>Modules/WorkoutLib.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		1kFaH2OfLz5hpVnT/8o/h9Dowho=
+		U499pSn6qbbGPaxEo+xCs0QiN0Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		Mbk1C27PpZEAVeE7xA/B7AxSBRA=
+		2V/QDGvBMS+IxHNOfj68hJPx83U=
+		</data>
+		<key>MoreOptionsViewController.nib</key>
+		<data>
+		sEx9xob0N2Od3iKPOl9vuAfTrlI=
 		</data>
 		<key>NutricionDayView.nib</key>
 		<data>
-		G42jqf8hCN22gc1U6aPj/YmLvKM=
+		HwR1nBkomxqIxdCLtqlWUqDqwr8=
 		</data>
 		<key>PlanningCell.nib</key>
 		<data>
-		n783oLKVbroMSOmoCfQeT6REJtE=
+		aBXYqxk4/d/W4KYKxa4u+JjronU=
 		</data>
 		<key>PlanningHeaderCell.nib</key>
 		<data>
-		zc7lCSpQJLaonKQz5ybF2reA/1Y=
+		Isq1zPkt3FHRo+6AbXmw+aYNc2A=
 		</data>
 		<key>PlanningHeaderView.nib</key>
 		<data>
-		4xVZv8VUA7HfYvex0AedlFR6uR4=
+		M68KBH4K6I30Ao2TEg9LIhE+0E8=
 		</data>
 		<key>ProfileAlertInfoViewController.nib</key>
 		<data>
-		sNdl23Y+Xf6P/wsT/PiPGVKSXAs=
+		aFW2mkseGMS8o6uPr/CD6x3X53Q=
 		</data>
 		<key>ProfilePageViewController.nib</key>
 		<data>
-		6I6408DVstimFs7QjCsxH+vncb0=
+		Aa9aIrbhF4xwVb37bdBwsyvAouA=
 		</data>
 		<key>ProgramWorkoutCell.nib</key>
 		<data>
-		mxeAV8JafRS2J0TXVcp5FXsfYg0=
+		kgT5VXFdfiILUNIticvDNxBmhbg=
 		</data>
 		<key>QuestionCell.nib</key>
 		<data>
-		1NmDT2aiUIXK8DnxZHccqw6JS60=
+		pmxiBuS8T/UaPz7xGibrEICnVaQ=
 		</data>
 		<key>QuestionPanelView.nib</key>
 		<data>
@@ -266,43 +274,39 @@
 		</data>
 		<key>QuestionView.nib</key>
 		<data>
-		unXZYYL57uUgKrXLKMB/vGnLrrc=
+		iDCPvyWepEE6+2DAK75gl/mW+fY=
 		</data>
 		<key>QuestionaryAnswerView.nib</key>
 		<data>
-		LnjHghtVNqZ/yXxW6a7bE2pDCzw=
+		olhm/4Y0loZet9/aDX6A6e9TlVo=
 		</data>
 		<key>QuestionaryCell.nib</key>
 		<data>
-		dhRBAEQlMybhGld/4JZqYW0JvZY=
+		CXFACQFs0mK/UA0YL6+NGuSfNhM=
 		</data>
 		<key>RendimientoAlertController.nib</key>
 		<data>
-		vRsS5/apGb5rfLAfr6V7iPppGoI=
+		kA4WJWRX6uLtruJ3MhO56LcjNOM=
 		</data>
 		<key>SDKButtonView.nib</key>
 		<data>
-		qhq/m0wMPiNVmANdp0ZLOsIHBZQ=
+		MRULQVz4LcXFjVbxAIE9Nzbg9/Y=
 		</data>
 		<key>SelectedClassesViewController.nib</key>
 		<data>
-		AKYKhNcgxMdBYFDV06LpKphk2tw=
+		gDc0ldACMnkcfWjpKnVHRl8M1W4=
 		</data>
 		<key>SportGoalViewController.nib</key>
 		<data>
-		1C+cbBLlhRs365iO2WiLvAhUrgw=
+		V4eMeTGwdZZP7JEb+NuxrDCiuMo=
 		</data>
 		<key>SportPlanningHeader.nib</key>
 		<data>
-		+SXxW8UFUFsBjv+G4/oedjuruBU=
-		</data>
-		<key>StartVirtualViewController.nib</key>
-		<data>
-		goQcrSmEgl1bUaDJjV0bsZ/xogo=
+		CEtqE+r9CVkJZ/84FZ3eVSUfPJg=
 		</data>
 		<key>Stats.storyboardc/ChartStatsViewController.nib</key>
 		<data>
-		RToVcNDW4eZMALz8NaGLHJ6Qqn0=
+		jz6P3g5Ivm0XeAVBiaRsI8mtaUo=
 		</data>
 		<key>Stats.storyboardc/Info.plist</key>
 		<data>
@@ -310,27 +314,27 @@
 		</data>
 		<key>Stats.storyboardc/StatsViewController.nib</key>
 		<data>
-		GlxmgeCHaNO9VISPjBxZ/kY3qG4=
+		7D8YBwcDt4H+oLwrlVX75P8Wjnw=
 		</data>
 		<key>Stats.storyboardc/ecH-xF-PjF-view-mjC-xK-UV2.nib</key>
 		<data>
-		QxLWFYLQNlgpPwPT4oQeyCcZZTI=
+		1AljOEd4DT208Uop+MSEPCaQuPI=
 		</data>
 		<key>Stats.storyboardc/ifd-zb-L04-view-gNu-Q7-igi.nib</key>
 		<data>
-		ELjSofc4DNMGD7mn92ILSyxoRqg=
+		RRAdqQmYc+hxEXlY6fHNJ94uTTc=
 		</data>
 		<key>TimeBasedViewController.nib</key>
 		<data>
-		sCrPbCBKfkb1hsze/X9YKqSPiNA=
+		rHLa17sad8jutGYsHyds6wG8cVo=
 		</data>
 		<key>TimerView.nib</key>
 		<data>
-		luO8m/H/8lZPrEvXAccKSJr7Qos=
+		10gqHLPq6TlEsfLnQgYabWtJrEw=
 		</data>
 		<key>TrainingProfileViewController.nib</key>
 		<data>
-		Bbd+CPvHWuihhli5p7OqtF9sZG8=
+		yjdYqOeg7bO7Bem/eul0Z1R+ZYg=
 		</data>
 		<key>TrainingWeekTutorial.plist</key>
 		<data>
@@ -338,39 +342,35 @@
 		</data>
 		<key>VPTStatsView.nib</key>
 		<data>
-		zI1AgNqUwLiqYk4aUb4VnlMe5vU=
-		</data>
-		<key>VirtualPTConfigViewController.nib</key>
-		<data>
-		5bKneQI4aEBxI+J0972Nk6vk3eo=
+		GrrKP8fu41vJ8LPtjchm47GMzqw=
 		</data>
 		<key>WaitingScreenViewController.nib</key>
 		<data>
-		H7SMArSwWyB7/+CbEj+OWg9pPkE=
+		GiXyu3/N8A9T76JS5hutTnHprpg=
 		</data>
 		<key>WefitterCell.nib</key>
 		<data>
-		64IKxEFAkCtOPT/azJ+j78WNirQ=
+		548q15Tj+aHwTtQ40mitIGTM0eU=
 		</data>
 		<key>WefitterProfileViewController.nib</key>
 		<data>
-		J2sMV2lvtDIVnFRMi61ays7ldeM=
+		I1CrYP/dM3ttjhq7AGvUkihq2rE=
 		</data>
 		<key>WefitterViewController.nib</key>
 		<data>
-		VuS2BCV+j9HkTnLKWaELOI1xFHs=
+		P0gTaMLkiVPW7NOoZ8vlYm+VFeU=
 		</data>
 		<key>WorkoutHomeViewController.nib</key>
 		<data>
-		tBcicm6LCiszbfC49QHmXAp/Juk=
+		KR8UXu9sIzb/hkYyF/LoYQB2A/M=
 		</data>
 		<key>WorkoutInfoView.nib</key>
 		<data>
-		JTSt1cdox9GxP9AWsvJL4MWRg50=
+		yqf2ByuKSBPWbvuw13wm4sw5Ycs=
 		</data>
 		<key>WorkoutSummaryView.nib</key>
 		<data>
-		TMQm942V/YgH+cjvSBlDb2yxWos=
+		dBNml4j9qztvYYg9xrp98GRarzM=
 		</data>
 		<key>api-entrenamientos.json</key>
 		<data>
@@ -389,7 +389,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vhUejUUkK9y5zd7/nWTgYrxQxWU=
+			Prb/QzWClNwLidXSwkwhNWAfv8c=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -416,7 +416,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VaibNzp/ZFp3bE+S9Km7ZIn/ZFk=
+			o3k4IkeCaWFsciP/lxof4d02Chk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/VirtualPTConfigViewController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bwqpg+UUn8dnxmGYlTQ959PO0Wo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -461,7 +470,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rDsiL8G6xj5X+EH/i1FD9Widc2c=
+			Ho5QZA3veswnv9U8sOH8PsNNsWc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -511,6 +520,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>es.lproj/VirtualPTConfigViewController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zy2YyWP/D7V2AqHDKYgxt95BBTM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>es.lproj/VirtualTraining.strings</key>
 		<dict>
 			<key>hash</key>
@@ -551,7 +569,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GX+JZM1dAGUeTDp+giIApWyhmk0=
+			bdVkJNf5lJcXk7biem+1g3td3Ic=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -652,14 +670,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Tw35M0mcjmpAXR3CEawoKDS+oJABr4zTtIxbx9BD+l0=
+			ALEp/vOl3mvPEmFnWVWoCn+eX+6f7f71BTEUHk2WvkI=
 			</data>
 		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			R2dxcjWRg2hBDXT1qcSTJof5taXEJVXm8HJ928EhfIw=
+			nuoTtPrLMAFhjmCckQBf4RUTptNd4IV7PSTBsKzRsN8=
 			</data>
 		</dict>
 		<key>Base.lproj/Leyenda.plist</key>
@@ -673,28 +691,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jrFAOVLKl+/H+j0YQ5GE6olzZJOQg1LO60AvvLTrnpI=
+			fwgec2hdS47Q2BLs5gTLL5JA4QwOo1coUutWxDSnqf0=
+			</data>
+		</dict>
+		<key>Base.lproj/VirtualPTConfigViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			96/pjK1Ao1tViH8ctp4Eu8PiCthdqspSPA3/dUoWmfA=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/3Vc-dc-L4f-view-0O4-Or-U2B.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aMvK51luGSyHc4lTClVMzwEJjiGYWro7/8UwD1aXoAU=
+			XPFl5BrHUSPswYfO77o6HHhkoMYJTz8GdGUPdtK3qRg=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/CircuitViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I3WBAliop7DHUE2Kq80yeOpsmdqO6ppoHKfhITojkd8=
+			Ee1nf7vf+7w+K3UzBwr3r9Zxk276/MFTYpAjYFPtn3Y=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/CyclesViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BKhk1lOXvlPYxfiF7OztdPj0wXTMOXbGA1+CDeYV5cI=
+			PdN4kUUgg/ffD0bp261M8W7MUOBMDHhCGWueMrz5Z/4=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/Info.plist</key>
@@ -708,49 +733,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			O6p9jMlZ2IsCyoWUe+8i1pibKLGl3/uLTzU1Da8+hk4=
+			Vkgsd64QkDusibFgCJXQMRH0sbDZmdL9VQAkNcvG1ws=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/LeyendaViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vyv63VgixMY0UAUOxJe10WGUVzUpjVl8TRV2BEUli/g=
+			bzBRxwVXGil9I/p88JQ1xRwLKjTOK0sxZ49mtzWSw3s=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/Nmy-DG-5DK-view-bYG-Ql-zEj.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			q7OTbaivcmfTqBiF8g2C8Ly2hif2tHuPopEICqNAAuQ=
+			MRZmbgiId/NXLlQ+LSpcxA4xzHO/zT9HSVL3p4riNpc=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/SportPlanningViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JlhG6T9twp3OD9gEs9qqTSrNjOYyUIigDV/BZJaLzJU=
+			7lfLisCFMRcRkEef4p/I4ExG/bWnEZBk+xMmibBOT98=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/StepByStepPageContent.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IB+XKW6nvA6dKRk/RV0oEsXLdeo1EFKEG0EFGIVcVPw=
+			N0jCy4hBoi8n7mMS7SkJCgKqoDBLRMVllSb24y3HKOc=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/StepByStepPageController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gwNEXwsb6qzIiN4kIUZDULxhYaJg9DUeE7r37Gjs7Ek=
+			SWCgu9ENdrITU8Lt0FoNhix42sYmVo0OT8K9B1qqOnA=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/TrainerPlanningVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QaOAoqdsHmpeX/qedIOzImaG2TB55n0QL0c7XeOHG3c=
+			zGWrCZPxgGo1G6rscpBqrqFcdYGJQpyc+0O5Avb6Oc8=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/TrainingMenuVC.nib</key>
@@ -764,21 +789,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7CUYoFKSIh8AVrYR3QWoHXc1paxnvPvE1Mkocc1MJsg=
+			epfIL4+afeOhSZSCMEVfYI+3ul+YsPdmTcCiHcvzARs=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/VirtualPTConfigDiabetesViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			D56p5rmaVg0t6rBsyh2QqRNpj4yItZHB9EC25XLIJ/c=
+			OvNEdXBJ3COabZLD/gPQItmCSNq2nHDtF4+Nuw6k16U=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/VirtualPTConfigViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LdONBd8kXe5j1W8FmHR/zlir0acnvSd0WSX3CF3UvX8=
+			+E/cPk6gKcqpRac1pNG397ZKNzV+1eSD4ZftPjtE4Ck=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/VirtualPTFinishViewController.nib</key>
@@ -792,56 +817,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ab+6S3m9WZuS5XEKcagEjKVcz6j8Qq0tMFPtGmoFYRw=
+			bmxiKazIPBZgrg43yVZ2JQCrg2qcNnor/vBYvhC8huY=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/ZIK-IE-rOh-view-2zB-4q-skZ.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+urmyzzSEPoxbb3hbS12ZwBZMBQUKLQ5dNS+uymnAe4=
+			wX1n8IQk3z2jdxXEU8BOrAP+4ARk/N4jlwbtYwE3z6M=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/bTJ-tu-2Ef-view-sQw-8C-RPX.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XNTUik8tpsQj/o916bUzPbCphX4+rQ6w0mHqfN7O5DA=
+			s9jTTVBlKXfhh1VBfT7wBpgO+B4G48VgXyDzVRviZbY=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/dLd-fU-dx4-view-AH4-8Y-FIi.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eCKybCtF8gTjtmNtvLeNliNaqiTTpkgE1gXlnsJlGb4=
+			rzcRcV8t4AUAJocB5SxtCrY+2KDt2w88Cuh1Zw80x7Q=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/finishPageContent.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AWUpi8ii7/6B76pNmQPetCTxjghY09zLLVmZrzA4LJQ=
+			ige9fFfNANcR6eOL3QiqRUvrsOJgdfnYsT5ntBKUvEg=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/kfY-lM-9Mt-view-AWN-Hj-VsE.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9QcVel90tSQxicHTv29FhW5RoPeJDZpdbnB+SnAJ5PU=
+			hxvjSvMd4ni5xEmxWzeT5zXCxSZPgiWEXrp8HJuktkg=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/l5w-Fe-ux7-view-44s-RE-fWl.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6hZOzl540XRng117HcJesAEGTtQTKKvcvmcDZDoudGo=
+			Yjdbtvgq5StysNz3X06IKLKRmayVKMBpnyrO7aKgvAM=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/oXp-p5-8SS-view-8Ox-Lr-Qu5.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qaMBwUBxYAUKvMzbRsZcXyxE4wj8Kja95PGw0rJC+0E=
+			D80TFxPajIjLt4n2emVVj8h7YAq2L+q48q0QlLbeC8o=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/pageControl.nib</key>
@@ -855,28 +880,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bI8yhxFqfie2IiDX2eEoSjeyDyHpy+/uEWs6wpvAL90=
+			FTPPEDmpnMXiVvcj7BumeAmalvgpWCFfGBUjeEWS9Pc=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/tYZ-Vm-1YX-view-FaZ-4D-52g.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7661X9vRH+xbFZU/Fb62AjH70m4BglAiSmYGaz8vOLg=
+			8Ak0Mx/dCPeGfiS+8fRE/aGqqajzk7iSJ1WiN+YIoAs=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/vRb-8M-ekZ-view-n8b-DX-Tha.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			INQwhaqoPAF/1LZWSbseEykkxQAAaX+LHBuiudcwbk0=
+			TBgWd3BZ402l3UMHHHU+L4UVmFuouIHcVcLaRmOC3HE=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/workoutViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7Anf+38xKu7G0J5MKu96rleMaghTIJqQCjlg1jHsPNk=
+			p9Qyz27IoRNAN7MI9Yo85uON5F4HK8eUjLJCBk1Qt98=
 			</data>
 		</dict>
 		<key>Base.lproj/VitaleVPTTutorial.plist</key>
@@ -890,91 +915,91 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xoQauIGqadCDKCBTvRMtcSUv9BngK2Hr5oZMoI6U7W0=
+			YYM48tAIMRxKsiEzGNL6mQSkZX3KNx+P71MrT0Y43zk=
 			</data>
 		</dict>
 		<key>Base.lproj/WorkoutSummaryView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+pF/y4f5b+yIUbqmHd4Cg4/ANhg83Wajmua+AuQ2Ajc=
+			p04SDn9COQ7nXb0MgwsV6n0jEMKKqyCu0zIUkwwVytE=
 			</data>
 		</dict>
 		<key>Base.lproj/profile-settings.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tZkOQizwbEwryx94WD5mHMEUWa+uGAWmoslkjwGxdV8=
+			XdJ7cyysIFWuh8PHHlS7+IimFkd3EW9T/+kD6ljfQ1k=
 			</data>
 		</dict>
 		<key>ClassCategoriesViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aOJaJAC/wWNfamk4+2NxjEYtDlSk659GVulR0IES3Tg=
+			xbCiJguKNgdR1I2hd/5hTM+pN98z6ZAgm5Ic96hflRk=
 			</data>
 		</dict>
 		<key>CurrentDayView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LTi+3aDKzFlc1A2D1EH5V89NSVgyMkn9oiAz0nB/W54=
+			yK0RPrGEXfzVXKMwxEYdVlnqyb/tgZ1XMvHPruY1e+E=
 			</data>
 		</dict>
 		<key>CustomPageControl.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jYTLUT6AaYxXZCx/sBPSgr1L6Vsx+OmBLTszBBs6chg=
+			w7ZdeJ57b7GnYjd109ZIt87NwVvMOiS1yQHYnJ3g8Do=
 			</data>
 		</dict>
 		<key>DailyWorkoutCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			It0ek7IDFg+TXQmuZo59oofoT83ssofg0KwmObEI+2I=
+			P8YThUcehmO1JFfbrhuDIE9YKrgjrLPnoY3kFhqfKRs=
 			</data>
 		</dict>
 		<key>DailyWorkoutView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t/L0uxJkI2U7xmSOaBv4cm7WQx0Poo8AbS8m3tMEh60=
+			Md5vSRWT5a4X26zM4aPNJuc2YrlUrdsbuqVvahN4SMc=
 			</data>
 		</dict>
 		<key>DailyWorkoutsViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1ktQFsrk30kZEi2N/g4GOKtwEOLbS4xo61JcZkSKe0I=
+			DHUV97FMLsoQyYT03TcuPEAahCXUjvHe8b52j6+4iJ8=
 			</data>
 		</dict>
 		<key>EcareCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qaWEDtMV1TKIttvV8bIA1YV44wgR5R/ZGWIWTTsU+wk=
+			cU2Rk7R36w85p64rQPzPy76ngHaBrHxH24x5lmWKOG8=
 			</data>
 		</dict>
 		<key>EcareViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pB07NsrFowl+sdj2rzq//BWRxFBcqQDVa/K8EEYmpGI=
+			mPThX2drGHfEdrXQ+rHiZUraeIhwiwQAfkZQV/vN4z8=
 			</data>
 		</dict>
 		<key>ExerciseView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kvICc/4KOWI1hgdJO2dBwFAkCQUKgDFuPvZiLp2oqnE=
+			NEjy9QFfqGObwDHjVL+RHl85z285WCMt8gp9GckohyI=
 			</data>
 		</dict>
 		<key>Headers/WorkoutLib-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DbT7SSRvWKV/fXfd/iiWuRG/T7kaX4IQiNpwMasbTaI=
+			iilTe7A/UYyVgCyQcfiEB3Tqed2xk9cZFw/96TgHclA=
 			</data>
 		</dict>
 		<key>Headers/WorkoutLib.h</key>
@@ -988,105 +1013,112 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yR9afd0aEsdC5d/NQXAGeuyz3d1BXwLNtIH2T9nDLGU=
+			STXzAy6zQJci09pnsTZ50ZdL6yqHEGXHB7zjGmCjf5Q=
 			</data>
 		</dict>
 		<key>Modules/WorkoutLib.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cf8iyks2SIX6jozQW1pKJa2rv5k2bGwZRNQdIiEnZe0=
+			AM8672Xo20T9udBJDIw7RF1Uqh6hTjjVaMK6lWP0h50=
 			</data>
 		</dict>
 		<key>Modules/WorkoutLib.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jpp0fIZVe9i+K4vQhhICuWe2nN9dec626P0rKoL1Qt8=
+			3MBBE3B+JQ1z+0PArapgE05l7BvJx46yMazmVasru6Y=
 			</data>
 		</dict>
 		<key>Modules/WorkoutLib.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b9UrIXs/7wiVWn5adGMCoNRGeMA0phWsLEecgQrKsoc=
+			3AuSnJxtea6OojwvMcU5JZSgnO8pNt56+rYNlkZJXO8=
 			</data>
 		</dict>
 		<key>Modules/WorkoutLib.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jpp0fIZVe9i+K4vQhhICuWe2nN9dec626P0rKoL1Qt8=
+			3MBBE3B+JQ1z+0PArapgE05l7BvJx46yMazmVasru6Y=
 			</data>
 		</dict>
 		<key>Modules/WorkoutLib.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yA68ZKrmaF966Tsh4wQdjCimnynOLaHDYcI5l+/3XGQ=
+			DMUTWg41F6b0kuoLeZ07CdgF5+biFcWC6V0ieV2ZHuM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Oe3lUlczWTO2OOu4lL7Xd1dYpManfdXjL+dDRuwxm4A=
+			wZyE6x8G9WDYQ8tXTXV5LszoljIkC3nOy14FXcWB55A=
+			</data>
+		</dict>
+		<key>MoreOptionsViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			d6GCNI0LwrE+g3VBkJiHH2ZBruWbEcJI63inrQLSwBI=
 			</data>
 		</dict>
 		<key>NutricionDayView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H++XNp2bOEjXSNkzBe5Yxj+HTkwKPO3YMoD8O69o9DA=
+			9i1cjCSZc6GYZBpKIw+TAVH9qaENPo2LQC1nx+sYdWo=
 			</data>
 		</dict>
 		<key>PlanningCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4erCUbHLEd2I0Jn3tRDcGjDJlQYi4FPF8/7GihjCOB4=
+			iaW66gy/1BuEHpLXgDjTYgn1IfNubTXG5Pyy5P25Z98=
 			</data>
 		</dict>
 		<key>PlanningHeaderCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U0JR0bVQZlhwxn4qJ9ebmK4Q4VHRTCiJmftmGeH2/jI=
+			VlQOY3HzSEDQ55diKwUtDT4+9u7Ilczu2xk43oVMfR8=
 			</data>
 		</dict>
 		<key>PlanningHeaderView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			E5Sbe67Q8fHmtQbICWaDzsomjCrSrHf47bfrtw82BG4=
+			43HTaO3DXHOAYkva4M3OU6JhaT0GQtf9S7ePkUYnhHA=
 			</data>
 		</dict>
 		<key>ProfileAlertInfoViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pXtc3JjAhfp5JZfcGoQ5MCYL03m84DUVTET0tvKwX2I=
+			Dk8uLKrDJc+OmvKJB0O7v4GlZj9vk96yls5q2GwG2sY=
 			</data>
 		</dict>
 		<key>ProfilePageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ySV0sS7RXHiNUno3e5Rn+vhwgZGVJMN2ABM/4emuuvk=
+			2vXhtafTbTgCHOUJ7fDs+txbgWuYrp2glQwOGmhqkWc=
 			</data>
 		</dict>
 		<key>ProgramWorkoutCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			opcECZyMZuqh5K4nbu/n0rJpLVuApg8RCFVWpVatJBY=
+			LJJjw/ffPS9XVkjdM674kEmate9dQENESyW3VTtz/aU=
 			</data>
 		</dict>
 		<key>QuestionCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cvMH3Z80OTF8+TPqE2Cipp5qVSRmWzqMoBQvAvUMB8c=
+			710etDgZLaYDRIq1iz7cGGpTpBcLFCXUWFXzYGPwvMo=
 			</data>
 		</dict>
 		<key>QuestionPanelView.nib</key>
@@ -1100,70 +1132,63 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kU/kPXvoUtQ1MeDpoVd8YtYevj+tPDmqHMKkWhuwU8s=
+			SII+o81dHAPtlEf5iLcvWk6FZcNP9ZB/pT+jM3jQIRk=
 			</data>
 		</dict>
 		<key>QuestionaryAnswerView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HTOApb8xdrEXXTnVLZzEPcVU9mU0aRxkGrYHBSqwQFk=
+			i0tpkPFlaJ2K/G9eF46v+G3gKj5i2VoIL8Htk5laTjA=
 			</data>
 		</dict>
 		<key>QuestionaryCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TzLcmYK6ZhewxFybw6gjYZMa1ycNx/a4HevGMpl/358=
+			VKaBvnooOjH4iq50i1PfanGd7o8OdrbIjapTGalWSsg=
 			</data>
 		</dict>
 		<key>RendimientoAlertController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HfU9y36hT4+cYFFnPB+Yhv24GYWXlvZ4uGTnbse+7K4=
+			4aGYiB51UkX9nWNkJuYWOEEdRmYQPHn9lTMyOzVXmlU=
 			</data>
 		</dict>
 		<key>SDKButtonView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4kI4S0aDo0vUNqMnbWRpjgcoLo1rZg1pLabntxyvsVI=
+			Fm1iS7EXUK3Rl4R50tXtKANMeAcUKKfT86LUM8XYRPk=
 			</data>
 		</dict>
 		<key>SelectedClassesViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WELlsz8ADlAEKqVg4jfk3lHIM6j5wBz6cI5FYWjrF40=
+			MnbqzZ7W8UEpDXA9y4WKpoPt5D7ilh9EQFKZsO+CO4U=
 			</data>
 		</dict>
 		<key>SportGoalViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			q/G0NQn0dv1ZW+OEt+91tRBcQ0/bsrKvdJWP5xwKLts=
+			C3+DakGSetGHaX8fyREkcwV2LCEeRjNKmIcvNwL7ZGg=
 			</data>
 		</dict>
 		<key>SportPlanningHeader.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3WHIv6nIKGe3tGM2CuWZAe7j3wdPr8hQtlX6rhXqr90=
-			</data>
-		</dict>
-		<key>StartVirtualViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1ROVmSkRPKNZ9LRYrumnWEN3K41LMMq3orv9n3YfaVQ=
+			FTnPK1v+DcHyO3tF6D8aIQW/ENetPTAPqO9TWcy3zm8=
 			</data>
 		</dict>
 		<key>Stats.storyboardc/ChartStatsViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WARKfeI9xnOul9n9Qugv3C8NsKY3NpL9HYB/1Kx7kcY=
+			K72/WjimgT1z7iJ0n4nXEyb5hXyI7mgErDVemZWsd/Y=
 			</data>
 		</dict>
 		<key>Stats.storyboardc/Info.plist</key>
@@ -1177,42 +1202,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YL2xdpDaHoh3cWJWdA01vkasy09pRkWPiHR18DALSWk=
+			5Vcgfsv9A/n/l2Hx2ciu+MuNOYCm0sjigeoymTbB1zY=
 			</data>
 		</dict>
 		<key>Stats.storyboardc/ecH-xF-PjF-view-mjC-xK-UV2.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vyLCwSMDC70Pg8xjEqWJjKJdKbaT7K2C3uLIxf+yLG8=
+			kTI34OPsrlYI3KWBB9JyETw5Kb6UQKW+rcOwp7gCzgw=
 			</data>
 		</dict>
 		<key>Stats.storyboardc/ifd-zb-L04-view-gNu-Q7-igi.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AdRMOWh1BIKKSvQntNQxBj3AzHFpwh/EtLrwnoG0z/4=
+			PC321MEgCsHW1yCJmHoW7Gn+ZkYvlb7rDafxt8InYhA=
 			</data>
 		</dict>
 		<key>TimeBasedViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9sw8u7mUBKmyTOdifilnhzyFohOf6woGThGITi3l8og=
+			2RYH76PnJV1LS8ZRpeDEtZ2zWKEor0dHMhF7djw4+PE=
 			</data>
 		</dict>
 		<key>TimerView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KFC9VrfcBKKwXASZaQ/H1CNWWyP2dFKH75azRhc3ijg=
+			ExIBzClGk7cA+tmzrPlzJ1z4g7Sc0mqH9HnRx7oCgSk=
 			</data>
 		</dict>
 		<key>TrainingProfileViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4ER9Lf6T+/1Sy7LLdNVJEVnyJXGMZXhEq5baVYXmdXo=
+			3fYAMIQIaYM/mWEfM9450ccOnW3OyJ0UDRbdCnyM7NQ=
 			</data>
 		</dict>
 		<key>TrainingWeekTutorial.plist</key>
@@ -1226,63 +1251,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iFR9+nS9tcw2EBIMeNgdi3RAmbTgn0bIMRbT8FUlcTE=
-			</data>
-		</dict>
-		<key>VirtualPTConfigViewController.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			nLlUghhs95QBos0sUbExHamTN1+WmRvfu5E0FJbG9OM=
+			Lo+V4+XttkLSkw1X6qr67cdUHGTyuVoGd3Le/ZRCWKc=
 			</data>
 		</dict>
 		<key>WaitingScreenViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/zlJEvXES/9DIsD1bMCeTIwGn0x5o4LoHIIvWV7MWeM=
+			hWBlmlU5SOgMdSmn5G2aVoPeNljDZpMa7lNqniEy77w=
 			</data>
 		</dict>
 		<key>WefitterCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oxsPSQkM+LkfdrlLCsvht0y6n+FOoIYafb7dcbHPGoI=
+			l5cxKyQSKwAEQtAw98vUTBcH5DFEcPna86tu3wwEqGM=
 			</data>
 		</dict>
 		<key>WefitterProfileViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9d9lUzax1QBghGRVVjv0LcTWLciU/6BZcVVygb9TYFs=
+			6tKBNTh+XTc4gFtSHnh9fvongcyJRMGAMhHIFk19dP8=
 			</data>
 		</dict>
 		<key>WefitterViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WXEf4jso446KwuRbZZ8vuBvuW9m0XN2VcIev0C8sm+0=
+			fnMTookagDrHpJ6awbptVEADyVooSy11rnkhfzEvh7A=
 			</data>
 		</dict>
 		<key>WorkoutHomeViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nYbh/rchVrD6NMz7+3ebASjZyvFv9Zh90SI3xt/RMzw=
+			pdsAgJupACQJUewgCORN4HzgHrFmQ2VOBiO3W6guUKs=
 			</data>
 		</dict>
 		<key>WorkoutInfoView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pLcve39Jwpc8woKwfVHi7UhLju8SKewoKNsVG583/wg=
+			+mRrZYLh3SxhuOUWnRLCVVDHinFtVND9gmuL0DBh+Ek=
 			</data>
 		</dict>
 		<key>WorkoutSummaryView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xnOFm0hrY7h1p7U7aSdoSrbATc1wS9gbIA+u0sq2BBM=
+			SxcgagvPXtvdosPkknRPg4mOlUm/odZb5DpHspiSsO0=
 			</data>
 		</dict>
 		<key>api-entrenamientos.json</key>
@@ -1305,7 +1323,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1T0m72+354D36Z/bEqP18Vn+rM1u9QoQwEq/xh/k9m8=
+			8QUx55h/28aZW44RMfgJCXACNPu0GBX6psneEr6V5bQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1332,7 +1350,16 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VzQBnxIi8O8tQIvdi7iyNTbMrAQM2njh8cP1S/UkXQg=
+			fLh1yPhgrXox2KIngYipGZJjwXR3v3DyPoFGoAhn4u4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/VirtualPTConfigViewController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xYPCFkw5OfZ1Lsf+90Sw5g9zKolJZnxBtrLKou7C2CY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1377,7 +1404,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			feacWvXOKlh93xAMzAe2ic00NAhVEdcBS3LFD2xrLTY=
+			usVUb7QeKDqhJGSad/ttqUj0jTiGmAd8Nhfzvy5uTNk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1427,6 +1454,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>es.lproj/VirtualPTConfigViewController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			H9ZoBF+S0vM9G0tQnN/Ooec7Jjn4Ap78JfoDXC6FUaI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>es.lproj/VirtualTraining.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -1467,7 +1503,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/U2osaXbnAbYQshi2z67HXnRnEZkxiymKn8QjXA/MT0=
+			BTGk0AE24XuN/XUtjJYeqjFAlSi+lmTs8vQMnNqXKVE=
 			</data>
 			<key>optional</key>
 			<true/>

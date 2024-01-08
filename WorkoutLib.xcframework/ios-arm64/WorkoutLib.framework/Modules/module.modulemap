@@ -1,7 +1,7 @@
 framework module WorkoutLib {
   umbrella header "WorkoutLib.h"
-
   export *
+
   module * { export * }
 }
 

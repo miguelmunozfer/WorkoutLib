@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)
+// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
 // swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name WorkoutLib
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import AVFoundation
@@ -7,12 +7,14 @@ import AVKit
 import Alamofire
 import CoreMIDI
 import DGCharts
+import DeveloperToolsSupport
 import Foundation
 import HealthKit
 import Instructions
 import SafariServices
 import Swift
 import SwiftDate
+import SwiftUI
 import SwiftyJSON
 import UIKit
 import WeFitterLib
@@ -20,78 +22,19 @@ import WeFitterLib
 import YoutubePlayer_in_WKWebView
 import _Concurrency
 import _StringProcessing
-public struct WorkoutSummary : Swift.Codable {
-  public var title: Swift.String?
-  public var classTitle: Swift.String?
-  public var image: Swift.String?
-  public var alternativeClassAvailable: Swift.Bool?
-  public var kcal: Swift.String?
-  public var descripcion: Swift.String?
-  public var duration: Swift.String?
-  public var url: Swift.String?
-  public var day: Swift.Int?
-  public func encode(to encoder: Swift.Encoder) throws
-  public init(from decoder: Swift.Decoder) throws
-}
-public enum StringOrInt : Swift.Codable {
-  case string(Swift.String)
-  case int(Swift.Int)
-  public init(from decoder: Swift.Decoder) throws
-  public func encode(to encoder: Swift.Encoder) throws
-}
-extension UIKit.UIFont {
-  public static func jbs_registerFont(withFilenameString filenameString: Swift.String, bundle: Foundation.Bundle)
-}
-extension UIKit.UIDevice {
-  @_Concurrency.MainActor(unsafe) public static let modelName: Swift.String
-}
-public struct TrainingEvent : Swift.Codable {
-  public var eventName: Swift.String?
-  public func encode(to encoder: Swift.Encoder) throws
-  public init(from decoder: Swift.Decoder) throws
-}
-public struct TrainingDevice : Swift.Codable {
-  public func encode(to encoder: Swift.Encoder) throws
-  public init(from decoder: Swift.Decoder) throws
-}
-@_hasMissingDesignatedInitializers public class WorkoutSDK {
-  public static let sharedInstance: WorkoutLib.WorkoutSDK
-  public func start(with user: Swift.String, clientId: Swift.String, clientSecret: Swift.String)
-  public func logout()
-  public func setMainColor(color: Swift.String)
-  public func setPrimaryButtonColor(_ color: Swift.String)
-  public func setNavigationBarColor(color: Swift.String)
-  public func setNavigationTintColor(color: Swift.String)
-  public func isProfileFilled() -> Swift.Bool
-  public func showVirtualPT()
-  public func updateProfile(sex: WorkoutLib.TrainingGender?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?, level: Swift.Int? = nil, basalMetabolism: Swift.Int? = nil, operationDate: Foundation.Date? = nil, activityLevel: Swift.Int? = nil, generateProfile: Swift.Bool = false)
-  public func updateProfile(name: Swift.String?, lastName: Swift.String?, sex: WorkoutLib.TrainingGender?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?)
-  public func getProfile() -> WorkoutLib.PublicProfile?
-  public func showWorkoutPlan()
-  public func getWorkoutPlan(_ completion: @escaping ((UIKit.UIViewController) -> ()))
-  public func showEcareController()
-  public func getEcareController() -> UIKit.UIViewController
-  public func getStatsViewController(_ completion: @escaping ((UIKit.UIViewController) -> ()))
-  public func getTodayStats(_ completion: @escaping ((WorkoutLib.Stat?) -> ()))
-  public func getTrainingProfile(_ completion: @escaping ((UIKit.UIViewController?) -> ()))
-  public func getTodayWorkout(_ completion: @escaping ((WorkoutLib.WorkoutSummary?) -> ()))
-  public func showTodaytraining()
-  public func getStatsBetween(startDate: Foundation.Date, endDate: Foundation.Date, _ completion: @escaping (([WorkoutLib.Stat]?) -> ()))
-  public func showWefitter(_ completion: @escaping ((UIKit.UIViewController) -> ()))
+import _SwiftConcurrencyShims
+@objc @_hasMissingDesignatedInitializers public class HCVimeoVideoExtractor : ObjectiveC.NSObject {
+  public static func fetchVideoURLFrom(url: Foundation.URL, completion: @escaping (_ video: WorkoutLib.HCVimeoVideo?, _ error: (any Swift.Error)?) -> Swift.Void)
+  public static func fetchVideoURLFrom(id: Swift.String, completion: @escaping (_ video: WorkoutLib.HCVimeoVideo?, _ error: (any Swift.Error)?) -> Swift.Void)
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class TrainingEvents {
   public static let shared: WorkoutLib.TrainingEvents
-  weak public var eventsDelegate: WorkoutLib.TrainingEventsDelegate?
+  weak public var eventsDelegate: (any WorkoutLib.TrainingEventsDelegate)?
   @objc deinit
 }
 public protocol TrainingEventsDelegate : AnyObject {
   func sendEvent(_ event: WorkoutLib.TrainingEvent)
-}
-@objc @_hasMissingDesignatedInitializers public class HCVimeoVideoExtractor : ObjectiveC.NSObject {
-  public static func fetchVideoURLFrom(url: Foundation.URL, completion: @escaping (_ video: WorkoutLib.HCVimeoVideo?, _ error: Swift.Error?) -> Swift.Void)
-  public static func fetchVideoURLFrom(id: Swift.String, completion: @escaping (_ video: WorkoutLib.HCVimeoVideo?, _ error: Swift.Error?) -> Swift.Void)
-  @objc deinit
 }
 public enum HCVimeoThumbnailQuality : Swift.String {
   case quality640
@@ -126,33 +69,53 @@ public enum HCVimeoVideoQuality : Swift.String {
   @objc override dynamic public init()
   @objc deinit
 }
-public struct PublicProfile : Swift.Codable {
-  public var name: Swift.String?
-  public var lastName: Swift.String?
-  public var height: Swift.Int?
-  public var weight: Swift.Int?
-  public var gender: WorkoutLib.TrainingGender?
-  public var birthDate: Foundation.Date?
-  public func encode(to encoder: Swift.Encoder) throws
-  public init(from decoder: Swift.Decoder) throws
+@_hasMissingDesignatedInitializers public class WorkoutSDK {
+  public static let sharedInstance: WorkoutLib.WorkoutSDK
+  public func start(with user: Swift.String, clientId: Swift.String, clientSecret: Swift.String)
+  public func logout()
+  public func setMainColor(color: Swift.String)
+  public func setPrimaryButtonColor(_ color: Swift.String)
+  public func setNavigationBarColor(color: Swift.String)
+  public func setNavigationTintColor(color: Swift.String)
+  public func isProfileFilled() -> Swift.Bool
+  public func showVirtualPT()
+  public func updateProfile(sex: WorkoutLib.TrainingGender?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?, level: Swift.Int? = nil, basalMetabolism: Swift.Int? = nil, operationDate: Foundation.Date? = nil, activityLevel: Swift.Int? = nil, generateProfile: Swift.Bool = false)
+  public func updateProfile(name: Swift.String?, lastName: Swift.String?, sex: WorkoutLib.TrainingGender?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?)
+  public func getProfile() -> WorkoutLib.PublicProfile?
+  public func showWorkoutPlan()
+  public func getWorkoutPlan(_ completion: @escaping ((UIKit.UIViewController) -> ()))
+  public func showEcareController()
+  public func getEcareController() -> UIKit.UIViewController
+  public func getStatsViewController(_ completion: @escaping ((UIKit.UIViewController) -> ()))
+  public func getTodayStats(_ completion: @escaping ((WorkoutLib.Stat?) -> ()))
+  public func getTrainingProfile(_ completion: @escaping ((UIKit.UIViewController?) -> ()))
+  public func getTodayWorkout(_ completion: @escaping ((WorkoutLib.WorkoutSummary?) -> ()))
+  public func showTodaytraining()
+  public func getStatsBetween(startDate: Foundation.Date, endDate: Foundation.Date, _ completion: @escaping (([WorkoutLib.Stat]?) -> ()))
+  public func showWefitter(_ completion: @escaping ((UIKit.UIViewController) -> ()))
+  @objc deinit
 }
-public enum TrainingType : Swift.Codable {
-  case diabetes, bariatrico
-  public static func == (a: WorkoutLib.TrainingType, b: WorkoutLib.TrainingType) -> Swift.Bool
-  public func hash(into hasher: inout Swift.Hasher)
-  public func encode(to encoder: Swift.Encoder) throws
-  public var hashValue: Swift.Int {
-    get
-  }
-  public init(from decoder: Swift.Decoder) throws
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class VitaleViewController : UIKit.UIViewController {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewWillAppear(_ animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
 }
-public enum TrainingGender : Swift.String, Swift.Codable {
-  case male, female
-  public init?(rawValue: Swift.String)
-  public typealias RawValue = Swift.String
-  public var rawValue: Swift.String {
-    get
-  }
+extension UIKit.UIFont {
+  public static func jbs_registerFont(withFilenameString filenameString: Swift.String, bundle: Foundation.Bundle)
+}
+extension UIKit.UIDevice {
+  @_Concurrency.MainActor(unsafe) public static let modelName: Swift.String
+}
+public struct TrainingEvent : Swift.Codable {
+  public var eventName: Swift.String?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct TrainingDevice : Swift.Codable {
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
 }
 public class Stat : Swift.Codable {
   public var cal: Swift.Int?
@@ -163,15 +126,55 @@ public class Stat : Swift.Codable {
   public init()
   public func statFromJson(_ json: Foundation.NSDictionary) -> WorkoutLib.Stat
   @objc deinit
-  public func encode(to encoder: Swift.Encoder) throws
-  required public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+  required public init(from decoder: any Swift.Decoder) throws
 }
-@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class VitaleViewController : UIKit.UIViewController {
-  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLoad()
-  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewWillAppear(_ animated: Swift.Bool)
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
-  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
-  @objc deinit
+public struct PublicProfile : Swift.Codable {
+  public var name: Swift.String?
+  public var lastName: Swift.String?
+  public var height: Swift.Int?
+  public var weight: Swift.Int?
+  public var gender: WorkoutLib.TrainingGender?
+  public var birthDate: Foundation.Date?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public enum TrainingType : Swift.Codable {
+  case diabetes, bariatrico
+  public static func == (a: WorkoutLib.TrainingType, b: WorkoutLib.TrainingType) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public var hashValue: Swift.Int {
+    get
+  }
+  public init(from decoder: any Swift.Decoder) throws
+}
+public enum TrainingGender : Swift.String, Swift.Codable {
+  case male, female
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public struct WorkoutSummary : Swift.Codable {
+  public var title: Swift.String?
+  public var classTitle: Swift.String?
+  public var image: Swift.String?
+  public var alternativeClassAvailable: Swift.Bool?
+  public var kcal: Swift.String?
+  public var descripcion: Swift.String?
+  public var duration: Swift.String?
+  public var url: Swift.String?
+  public var day: Swift.Int?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public enum StringOrInt : Swift.Codable {
+  case string(Swift.String)
+  case int(Swift.Int)
+  public init(from decoder: any Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
 }
 extension WorkoutLib.HCVimeoThumbnailQuality : Swift.Equatable {}
 extension WorkoutLib.HCVimeoThumbnailQuality : Swift.Hashable {}
