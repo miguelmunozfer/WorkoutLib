@@ -73,11 +73,6 @@ WorkoutSDK.sharedInstance.start(with: user, clientId: clientId, clientSecret: cl
 - `setNavigationTintColor(color: String)`: Set the navigation tint color.
   - `color`: Tint color.
 
-### User Profile
-- `isProfileFilled() -> Bool`: Check if the user's profile is complete.
-- `updateProfile(...)`: Update user's profile information with various personal details.
-- `getProfile() -> PublicProfile?`: Retrieve the user's public profile.
-
 ### Workout Plans
 - `showWorkoutPlan()`: Display the workout plan.
 
