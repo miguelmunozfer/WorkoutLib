@@ -11256,399 +11256,308 @@
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7500,
+      "offset": 7471,
       "length": 17,
       "value": "\"VirtualTraining\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7642,
+      "offset": 7609,
       "length": 31,
       "value": "\"VirtualPTFinishViewController\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7830,
+      "offset": 7789,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7947,
-      "length": 259,
-      "value": "\"El Entrenador inteligente ha programado las sesiones en un orden concreto para optimizar el programa de entrenamiento. Podrás visualizar tus sesiones de manera libre, pero no podrás confirmar su ejecución hasta llegar a la fecha programada en calendario.\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 8219,
-      "length": 17,
-      "value": "\"TrainingStrings\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 8288,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 8301,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 8352,
-      "length": 7,
-      "value": "\"Aviso\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 8372,
-      "length": 17,
-      "value": "\"TrainingStrings\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 8441,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 8454,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 8507,
-      "length": 79,
-      "value": "\"¡Aviso! Sólo puedes confirmar la ejecución del entreno el día programado.\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 8599,
-      "length": 17,
-      "value": "\"TrainingStrings\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 8668,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 8681,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 8869,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 9398,
+      "offset": 9779,
       "length": 6,
       "value": "\"view\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9599,
+      "offset": 9980,
       "length": 13,
       "value": "\"Apple Music\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9697,
+      "offset": 10078,
       "length": 10,
       "value": "\"music:\/\/\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9806,
+      "offset": 10187,
       "length": 9,
       "value": "\"Spotify\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9900,
+      "offset": 10281,
       "length": 10,
       "value": "\"spotify:\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10002,
+      "offset": 10383,
       "length": 14,
       "value": "\"Amazon Music\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10090,
+      "offset": 10471,
       "length": 26,
       "value": "\"https:\/\/music.amazon.com\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10268,
+      "offset": 10649,
       "length": 8,
       "value": "\"Cancel\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10621,
+      "offset": 11002,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "Dictionary",
-      "offset": 11081,
+      "offset": 11462,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11174,
+      "offset": 11555,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11243,
+      "offset": 11624,
       "length": 10,
       "value": "\"music:\/\/\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11331,
+      "offset": 11712,
       "length": 13,
       "value": "\"Apple Music\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11482,
+      "offset": 11863,
       "length": 9,
       "value": "\"Spotify\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11673,
+      "offset": 12054,
       "length": 10,
       "value": "\"music:\/\/\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11751,
+      "offset": 12132,
       "length": 10,
       "value": "\"music:\/\/\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11856,
+      "offset": 12237,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11997,
+      "offset": 12378,
       "length": 13,
       "value": "\"Apple Music\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "StringLiteral",
-      "offset": 12144,
+      "offset": 12525,
       "length": 10,
       "value": "\"spotify:\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12249,
+      "offset": 12630,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "StringLiteral",
-      "offset": 12390,
+      "offset": 12771,
       "length": 9,
       "value": "\"Spotify\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "StringLiteral",
-      "offset": 12603,
+      "offset": 12984,
       "length": 38,
       "value": "\"Make sure you have installed \""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "StringLiteral",
-      "offset": 12640,
+      "offset": 13021,
       "length": 26,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "StringLiteral",
-      "offset": 12729,
+      "offset": 13110,
       "length": 4,
       "value": "\"Ok\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12851,
+      "offset": 13232,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13061,
+      "offset": 13442,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "StringLiteral",
-      "offset": 13185,
+      "offset": 13566,
       "length": 17,
       "value": "\"VirtualTraining\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "StringLiteral",
-      "offset": 13315,
+      "offset": 13696,
       "length": 23,
       "value": "\"CircuitViewController\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13512,
+      "offset": 13893,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "StringLiteral",
-      "offset": 13995,
+      "offset": 14376,
       "length": 22,
       "value": "\"Invalid video object\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14756,
+      "offset": 15137,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15043,
+      "offset": 15424,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15143,
+      "offset": 15524,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15190,
+      "offset": 15571,
       "length": 6,
       "value": "\"view\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15222,
+      "offset": 15603,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15246,
+      "offset": 15627,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15357,
+      "offset": 15738,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15517,
+      "offset": 15898,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15541,
+      "offset": 15922,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15655,
+      "offset": 16036,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/WorkoutViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15703,
+      "offset": 16084,
       "length": 6,
       "value": "\"view\""
     },
@@ -12229,427 +12138,336 @@
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8820,
+      "offset": 8779,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 8889,
+      "offset": 8844,
       "length": 17,
       "value": "\"VirtualTraining\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 9043,
+      "offset": 8994,
       "length": 31,
       "value": "\"VirtualPTFinishViewController\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9243,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
-      "kind": "StringLiteral",
-      "offset": 9406,
-      "length": 259,
-      "value": "\"El Entrenador inteligente ha programado las sesiones en un orden concreto para optimizar el programa de entrenamiento. Podrás visualizar tus sesiones de manera libre, pero no podrás confirmar su ejecución hasta llegar a la fecha programada en calendario.\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
-      "kind": "StringLiteral",
-      "offset": 9678,
-      "length": 17,
-      "value": "\"TrainingStrings\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
-      "kind": "StringLiteral",
-      "offset": 9747,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
-      "kind": "StringLiteral",
-      "offset": 9760,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
-      "kind": "StringLiteral",
-      "offset": 9819,
-      "length": 7,
-      "value": "\"Aviso\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
-      "kind": "StringLiteral",
-      "offset": 9839,
-      "length": 17,
-      "value": "\"TrainingStrings\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
-      "kind": "StringLiteral",
-      "offset": 9908,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
-      "kind": "StringLiteral",
-      "offset": 9921,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
-      "kind": "StringLiteral",
-      "offset": 9982,
-      "length": 79,
-      "value": "\"¡Aviso! Sólo puedes confirmar la ejecución del entreno el día programado.\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
-      "kind": "StringLiteral",
-      "offset": 10074,
-      "length": 17,
-      "value": "\"TrainingStrings\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
-      "kind": "StringLiteral",
-      "offset": 10143,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
-      "kind": "StringLiteral",
-      "offset": 10156,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 10368,
+      "offset": 9186,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10554,
+      "offset": 11175,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10657,
+      "offset": 11278,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10704,
+      "offset": 11325,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 10769,
+      "offset": 11390,
       "length": 11,
       "value": "\"Finalizar\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 10793,
+      "offset": 11414,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 10862,
+      "offset": 11483,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 10875,
+      "offset": 11496,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10993,
+      "offset": 11614,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 11263,
+      "offset": 11884,
       "length": 11,
       "value": "\"Siguiente\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 11287,
+      "offset": 11908,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 11356,
+      "offset": 11977,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 11369,
+      "offset": 11990,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11431,
+      "offset": 12052,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11782,
+      "offset": 12403,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 11923,
+      "offset": 12544,
       "length": 6,
       "value": "\"view\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 12124,
+      "offset": 12745,
       "length": 13,
       "value": "\"Apple Music\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 12222,
+      "offset": 12843,
       "length": 10,
       "value": "\"music:\/\/\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 12331,
+      "offset": 12952,
       "length": 9,
       "value": "\"Spotify\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 12425,
+      "offset": 13046,
       "length": 10,
       "value": "\"spotify:\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 12527,
+      "offset": 13148,
       "length": 14,
       "value": "\"Amazon Music\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 12615,
+      "offset": 13236,
       "length": 26,
       "value": "\"https:\/\/music.amazon.com\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 12780,
+      "offset": 13401,
       "length": 8,
       "value": "\"Cancel\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13133,
+      "offset": 13754,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "Dictionary",
-      "offset": 13593,
+      "offset": 14214,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13686,
+      "offset": 14307,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 13755,
+      "offset": 14376,
       "length": 10,
       "value": "\"music:\/\/\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 13843,
+      "offset": 14464,
       "length": 13,
       "value": "\"Apple Music\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 13994,
+      "offset": 14615,
       "length": 9,
       "value": "\"Spotify\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 14185,
+      "offset": 14806,
       "length": 10,
       "value": "\"music:\/\/\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 14263,
+      "offset": 14884,
       "length": 10,
       "value": "\"music:\/\/\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14368,
+      "offset": 14989,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 14509,
+      "offset": 15130,
       "length": 13,
       "value": "\"Apple Music\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 14656,
+      "offset": 15277,
       "length": 10,
       "value": "\"spotify:\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14761,
+      "offset": 15382,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 14902,
+      "offset": 15523,
       "length": 9,
       "value": "\"Spotify\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 15115,
+      "offset": 15736,
       "length": 38,
       "value": "\"Make sure you have installed \""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 15152,
+      "offset": 15773,
       "length": 26,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 15241,
+      "offset": 15862,
       "length": 4,
       "value": "\"Ok\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15363,
+      "offset": 15984,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15569,
+      "offset": 16190,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15669,
+      "offset": 16290,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 15690,
+      "offset": 16311,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15707,
+      "offset": 16328,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/controllers\/StepByStepPageController.swift",
       "kind": "StringLiteral",
-      "offset": 15728,
+      "offset": 16349,
       "length": 2,
       "value": "\"\""
     },
@@ -14532,142 +14350,156 @@
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/RendimientoAlertController.swift",
       "kind": "StringLiteral",
-      "offset": 1419,
+      "offset": 1137,
+      "length": 28,
+      "value": "\"RendimientoAlertController\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/RendimientoAlertController.swift",
+      "kind": "StringLiteral",
+      "offset": 1635,
       "length": 10,
       "value": "\"Ver más\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/RendimientoAlertController.swift",
       "kind": "StringLiteral",
-      "offset": 1442,
+      "offset": 1658,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/RendimientoAlertController.swift",
       "kind": "StringLiteral",
-      "offset": 1511,
+      "offset": 1727,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/RendimientoAlertController.swift",
       "kind": "StringLiteral",
-      "offset": 1524,
+      "offset": 1740,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/RendimientoAlertController.swift",
       "kind": "StringLiteral",
-      "offset": 1688,
+      "offset": 1904,
       "length": 10,
       "value": "\"Cancelar\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/RendimientoAlertController.swift",
       "kind": "StringLiteral",
-      "offset": 1711,
+      "offset": 1927,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/RendimientoAlertController.swift",
       "kind": "StringLiteral",
-      "offset": 1780,
+      "offset": 1996,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/RendimientoAlertController.swift",
       "kind": "StringLiteral",
-      "offset": 1793,
+      "offset": 2009,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/RendimientoAlertController.swift",
       "kind": "StringLiteral",
-      "offset": 2056,
+      "offset": 2272,
       "length": 11,
       "value": "\"Continuar\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/RendimientoAlertController.swift",
       "kind": "StringLiteral",
-      "offset": 2080,
+      "offset": 2296,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/RendimientoAlertController.swift",
       "kind": "StringLiteral",
-      "offset": 2149,
+      "offset": 2365,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/RendimientoAlertController.swift",
       "kind": "StringLiteral",
-      "offset": 2162,
+      "offset": 2378,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/RendimientoAlertController.swift",
       "kind": "StringLiteral",
-      "offset": 2428,
+      "offset": 2644,
       "length": 4,
       "value": "\"Ok\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/RendimientoAlertController.swift",
       "kind": "StringLiteral",
-      "offset": 2445,
+      "offset": 2661,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/RendimientoAlertController.swift",
       "kind": "StringLiteral",
-      "offset": 2514,
+      "offset": 2730,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/RendimientoAlertController.swift",
       "kind": "StringLiteral",
-      "offset": 2527,
+      "offset": 2743,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/RendimientoAlertController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2796,
+      "offset": 3012,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/RendimientoAlertController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2845,
+      "offset": 3061,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/RendimientoAlertController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3047,
+      "offset": 3263,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/RendimientoAlertController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3543,
+      "offset": 3759,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/RendimientoAlertController.swift",
+      "kind": "StringLiteral",
+      "offset": 168,
+      "length": 26,
+      "value": "\"WorkoutLib.RendimientoAlertController\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stats\/DataServiceStats.swift",
@@ -25837,63 +25669,63 @@
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/WorkoutHomeViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5398,
+      "offset": 5397,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/WorkoutHomeViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 5919,
+      "offset": 5918,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/WorkoutHomeViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6043,
+      "offset": 6042,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/WorkoutHomeViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6192,
+      "offset": 6191,
       "length": 17,
       "value": "\"VirtualTraining\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/WorkoutHomeViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6329,
+      "offset": 6328,
       "length": 23,
       "value": "\"workoutViewController\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/WorkoutHomeViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 6594,
+      "offset": 6593,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/WorkoutHomeViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6718,
+      "offset": 6717,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/WorkoutHomeViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7684,
+      "offset": 7682,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/WorkoutHomeViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7784,
+      "offset": 7782,
       "length": 1,
       "value": "0"
     },
@@ -28636,120 +28468,29 @@
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/views\/SportPlanningHeader.swift",
-      "kind": "StringLiteral",
-      "offset": 1899,
-      "length": 259,
-      "value": "\"El Entrenador inteligente ha programado las sesiones en un orden concreto para optimizar el programa de entrenamiento. Podrás visualizar tus sesiones de manera libre, pero no podrás confirmar su ejecución hasta llegar a la fecha programada en calendario.\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/views\/SportPlanningHeader.swift",
-      "kind": "StringLiteral",
-      "offset": 2171,
-      "length": 17,
-      "value": "\"TrainingStrings\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/views\/SportPlanningHeader.swift",
-      "kind": "StringLiteral",
-      "offset": 2240,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/views\/SportPlanningHeader.swift",
-      "kind": "StringLiteral",
-      "offset": 2253,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/views\/SportPlanningHeader.swift",
-      "kind": "StringLiteral",
-      "offset": 2308,
-      "length": 7,
-      "value": "\"Aviso\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/views\/SportPlanningHeader.swift",
-      "kind": "StringLiteral",
-      "offset": 2328,
-      "length": 17,
-      "value": "\"TrainingStrings\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/views\/SportPlanningHeader.swift",
-      "kind": "StringLiteral",
-      "offset": 2397,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/views\/SportPlanningHeader.swift",
-      "kind": "StringLiteral",
-      "offset": 2410,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/views\/SportPlanningHeader.swift",
-      "kind": "StringLiteral",
-      "offset": 2467,
-      "length": 79,
-      "value": "\"¡Aviso! Sólo puedes confirmar la ejecución del entreno el día programado.\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/views\/SportPlanningHeader.swift",
-      "kind": "StringLiteral",
-      "offset": 2559,
-      "length": 17,
-      "value": "\"TrainingStrings\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/views\/SportPlanningHeader.swift",
-      "kind": "StringLiteral",
-      "offset": 2628,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/views\/SportPlanningHeader.swift",
-      "kind": "StringLiteral",
-      "offset": 2641,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/views\/SportPlanningHeader.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2847,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/views\/SportPlanningHeader.swift",
       "kind": "IntegerLiteral",
-      "offset": 2984,
+      "offset": 1763,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/views\/SportPlanningHeader.swift",
       "kind": "StringLiteral",
-      "offset": 3198,
+      "offset": 3379,
       "length": 8,
       "value": "\"arrow3\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/views\/SportPlanningHeader.swift",
       "kind": "StringLiteral",
-      "offset": 3322,
+      "offset": 3503,
       "length": 8,
       "value": "\"arrow4\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/VitaleWorkout\/TrainingModule\/views\/SportPlanningHeader.swift",
       "kind": "BooleanLiteral",
-      "offset": 3425,
+      "offset": 3606,
       "length": 4,
       "value": "true"
     },
@@ -29792,1057 +29533,1057 @@
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 2141,
+      "offset": 2115,
       "length": 12,
       "value": "\"icomun.ttf\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 2739,
+      "offset": 2713,
       "length": 18,
       "value": "\"profile-settings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 2767,
+      "offset": 2741,
       "length": 6,
       "value": "\"json\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "BooleanLiteral",
-      "offset": 3460,
+      "offset": 3434,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "BooleanLiteral",
-      "offset": 4023,
+      "offset": 3997,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 4032,
+      "offset": 4006,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 4036,
+      "offset": 4010,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "BooleanLiteral",
-      "offset": 4061,
+      "offset": 4035,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 4070,
+      "offset": 4044,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 4074,
+      "offset": 4048,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5321,
+      "offset": 5295,
       "length": 20,
       "value": "\"profileFilledUsers\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "BooleanLiteral",
-      "offset": 5459,
+      "offset": 5433,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6438,
+      "offset": 6412,
       "length": 20,
       "value": "\"profileFilledUsers\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6592,
+      "offset": 6566,
       "length": 20,
       "value": "\"profileFilledUsers\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "BooleanLiteral",
-      "offset": 7008,
+      "offset": 6982,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 7075,
+      "offset": 7049,
       "length": 36,
       "value": "\"Couldn't create document directory\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 7269,
+      "offset": 7243,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "BooleanLiteral",
-      "offset": 7467,
+      "offset": 7441,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "BooleanLiteral",
-      "offset": 7514,
+      "offset": 7488,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "BooleanLiteral",
-      "offset": 7559,
+      "offset": 7533,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 7660,
+      "offset": 7634,
       "length": 9,
       "value": "\"youtube\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 7702,
+      "offset": 7676,
       "length": 32,
       "value": "\"https:\/\/www.youtube.com\/embed\/\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 7907,
+      "offset": 7881,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 8536,
+      "offset": 8510,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 8978,
+      "offset": 8952,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 10965,
+      "offset": 10939,
       "length": 8,
       "value": "\"60729B\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 11343,
+      "offset": 11317,
       "length": 8,
       "value": "\"FFFFFF\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 11615,
+      "offset": 11589,
       "length": 4,
       "value": "\"en\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 12165,
+      "offset": 12139,
       "length": 8,
       "value": "\"Fácil\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 12186,
+      "offset": 12160,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 12255,
+      "offset": 12229,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 12268,
+      "offset": 12242,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 12280,
+      "offset": 12254,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 12327,
+      "offset": 12301,
       "length": 12,
       "value": "\"Intermedia\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 12352,
+      "offset": 12326,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 12421,
+      "offset": 12395,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 12434,
+      "offset": 12408,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 12446,
+      "offset": 12420,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 12493,
+      "offset": 12467,
       "length": 11,
       "value": "\"Elaborada\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 12517,
+      "offset": 12491,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 12586,
+      "offset": 12560,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 12599,
+      "offset": 12573,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 12611,
+      "offset": 12585,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 12662,
+      "offset": 12636,
       "length": 13,
       "value": "\"pathologies\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 12740,
+      "offset": 12714,
       "length": 24,
       "value": "\"Problema cardiológico\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 12773,
+      "offset": 12747,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 12802,
+      "offset": 12776,
       "length": 7,
       "value": "\"Ictus\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 12818,
+      "offset": 12792,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 12847,
+      "offset": 12821,
       "length": 21,
       "value": "\"Diagnóstico de HTA\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 12877,
+      "offset": 12851,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 12906,
+      "offset": 12880,
       "length": 22,
       "value": "\"Hiper-colesterolemia\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 12937,
+      "offset": 12911,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 12997,
+      "offset": 12971,
       "length": 16,
       "value": "\"healthProblems\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 13312,
+      "offset": 13286,
       "length": 6,
       "value": "\"goal\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 13661,
+      "offset": 13635,
       "length": 7,
       "value": "\"goal1\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "BooleanLiteral",
-      "offset": 13787,
+      "offset": 13761,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 14007,
+      "offset": 13981,
       "length": 7,
       "value": "\"goal2\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "BooleanLiteral",
-      "offset": 14133,
+      "offset": 14107,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 14352,
+      "offset": 14326,
       "length": 15,
       "value": "\"trainingLevel\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 14446,
+      "offset": 14420,
       "length": 16,
       "value": "\"Poco entrenado\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 14475,
+      "offset": 14449,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 14544,
+      "offset": 14518,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 14557,
+      "offset": 14531,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 14569,
+      "offset": 14543,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 14616,
+      "offset": 14590,
       "length": 8,
       "value": "\"Normal\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 14637,
+      "offset": 14611,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 14706,
+      "offset": 14680,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 14719,
+      "offset": 14693,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 14731,
+      "offset": 14705,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 14778,
+      "offset": 14752,
       "length": 15,
       "value": "\"Muy entrenado\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 14806,
+      "offset": 14780,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 14875,
+      "offset": 14849,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 14888,
+      "offset": 14862,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 14900,
+      "offset": 14874,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 14956,
+      "offset": 14930,
       "length": 20,
       "value": "\"exerciseDifficulty\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 15051,
+      "offset": 15025,
       "length": 10,
       "value": "\"Fáciles\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 15074,
+      "offset": 15048,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 15143,
+      "offset": 15117,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 15156,
+      "offset": 15130,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 15168,
+      "offset": 15142,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 15215,
+      "offset": 15189,
       "length": 13,
       "value": "\"Intermedios\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 15241,
+      "offset": 15215,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 15310,
+      "offset": 15284,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 15323,
+      "offset": 15297,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 15335,
+      "offset": 15309,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 15382,
+      "offset": 15356,
       "length": 15,
       "value": "\"Nivel experto\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 15410,
+      "offset": 15384,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 15479,
+      "offset": 15453,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 15492,
+      "offset": 15466,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 15504,
+      "offset": 15478,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 15556,
+      "offset": 15530,
       "length": 15,
       "value": "\"trainingPlace\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 15642,
+      "offset": 15616,
       "length": 10,
       "value": "\"Interior\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 15665,
+      "offset": 15639,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 15734,
+      "offset": 15708,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 15747,
+      "offset": 15721,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 15759,
+      "offset": 15733,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 15806,
+      "offset": 15780,
       "length": 10,
       "value": "\"Exterior\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 15829,
+      "offset": 15803,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 15898,
+      "offset": 15872,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 15911,
+      "offset": 15885,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 15923,
+      "offset": 15897,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 15971,
+      "offset": 15945,
       "length": 11,
       "value": "\"equipment\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 16275,
+      "offset": 16249,
       "length": 18,
       "value": "\"trainingDuration\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 16348,
+      "offset": 16322,
       "length": 8,
       "value": "\"30 min\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 16365,
+      "offset": 16339,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 16395,
+      "offset": 16369,
       "length": 8,
       "value": "\"40 min\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 16412,
+      "offset": 16386,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 16442,
+      "offset": 16416,
       "length": 8,
       "value": "\"60 min\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 16459,
+      "offset": 16433,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 16507,
+      "offset": 16481,
       "length": 13,
       "value": "\"Inteligente\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 16533,
+      "offset": 16507,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 16602,
+      "offset": 16576,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 16615,
+      "offset": 16589,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 16627,
+      "offset": 16601,
       "length": 3,
       "value": "500"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 16679,
+      "offset": 16653,
       "length": 14,
       "value": "\"trainingDays\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 16762,
+      "offset": 16736,
       "length": 7,
       "value": "\"Lunes\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 16782,
+      "offset": 16756,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 16851,
+      "offset": 16825,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 16864,
+      "offset": 16838,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 16876,
+      "offset": 16850,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 16923,
+      "offset": 16897,
       "length": 8,
       "value": "\"Martes\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 16944,
+      "offset": 16918,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 17013,
+      "offset": 16987,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 17026,
+      "offset": 17000,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 17038,
+      "offset": 17012,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 17085,
+      "offset": 17059,
       "length": 12,
       "value": "\"Miércoles\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 17110,
+      "offset": 17084,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 17179,
+      "offset": 17153,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 17192,
+      "offset": 17166,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 17204,
+      "offset": 17178,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 17251,
+      "offset": 17225,
       "length": 8,
       "value": "\"Jueves\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 17272,
+      "offset": 17246,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 17341,
+      "offset": 17315,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 17354,
+      "offset": 17328,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 17366,
+      "offset": 17340,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 17413,
+      "offset": 17387,
       "length": 9,
       "value": "\"Viernes\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 17435,
+      "offset": 17409,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 17504,
+      "offset": 17478,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 17517,
+      "offset": 17491,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 17529,
+      "offset": 17503,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 17576,
+      "offset": 17550,
       "length": 9,
       "value": "\"Sábado\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 17598,
+      "offset": 17572,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 17667,
+      "offset": 17641,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 17680,
+      "offset": 17654,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 17692,
+      "offset": 17666,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 17739,
+      "offset": 17713,
       "length": 9,
       "value": "\"Domingo\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 17761,
+      "offset": 17735,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 17830,
+      "offset": 17804,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 17843,
+      "offset": 17817,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 17855,
+      "offset": 17829,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/Stuff\/TrainingSDKUtils.swift",
       "kind": "StringLiteral",
-      "offset": 17901,
+      "offset": 17875,
       "length": 9,
       "value": "\"classes\""
     },
@@ -32074,42 +31815,42 @@
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/HealthToolbar.swift",
       "kind": "StringLiteral",
-      "offset": 978,
+      "offset": 986,
       "length": 8,
       "value": "\"select\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/HealthToolbar.swift",
       "kind": "StringLiteral",
-      "offset": 997,
+      "offset": 1005,
       "length": 28,
       "value": "\"Select from the pickerview\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/HealthToolbar.swift",
       "kind": "StringLiteral",
-      "offset": 1329,
+      "offset": 1337,
       "length": 8,
       "value": "\"cancel\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/HealthToolbar.swift",
       "kind": "StringLiteral",
-      "offset": 1348,
+      "offset": 1356,
       "length": 28,
       "value": "\"Cancel the option selected\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/HealthToolbar.swift",
       "kind": "BooleanLiteral",
-      "offset": 1544,
+      "offset": 1552,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/HealthToolbar.swift",
       "kind": "BooleanLiteral",
-      "offset": 1591,
+      "offset": 1599,
       "length": 4,
       "value": "true"
     },
