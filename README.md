@@ -15,7 +15,7 @@ with any third party.
 ### CocoaPods
 To integrate `WorkoutSDK` into your Xcode project using CocoaPods, specify it in your `Podfile`:
 ```ruby
-pod 'WorkoutSDK', :git => 'https://github.com/miguelmunozfer/Workout'
+pod 'WorkoutSDK', :git => 'https://github.com/miguelmunozfer/WorkoutLib'
 ```
 Then, run the following command:
 ```bash
