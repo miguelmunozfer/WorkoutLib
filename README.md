@@ -1,4 +1,4 @@
-# WorkoutSDK
+# WorkoutLib
 
 [![CI Status](https://img.shields.io/travis/Miguel/VitaleSDK.svg?style=flat)](https://travis-ci.org/Miguel/VitaleSDK)
 [![Version](https://img.shields.io/cocoapods/v/VitaleSDK.svg?style=flat)](https://cocoapods.org/pods/VitaleSDK)
@@ -7,15 +7,15 @@
 
 
 ## Description
-WorkoutSDK is a comprehensive intelligent, automatic, and adaptive training framework programmed in
+WorkoutLib is a comprehensive intelligent, automatic, and adaptive training framework programmed in
 Swift for iOS and iPadOS. Is the most convenient way of integrating our physical activity training features
 with any third party.
 
 ## Installation
 ### CocoaPods
-To integrate `WorkoutSDK` into your Xcode project using CocoaPods, specify it in your `Podfile`:
+To integrate `WorkoutLib` into your Xcode project using CocoaPods, specify it in your `Podfile`:
 ```ruby
-pod 'WorkoutSDK', :git => 'https://github.com/miguelmunozfer/WorkoutLib'
+pod 'WorkoutLib', :git => 'https://github.com/miguelmunozfer/WorkoutLib'
 ```
 Then, run the following command:
 ```bash
@@ -49,7 +49,7 @@ end
 ```
 
 ## Usage
-Import `WorkoutSDK` in your application and start using its features.
+Import `WorkoutLib` in your application and start using its features.
 
 ### Initialization
 Initialize the SDK with user information and credentials:
