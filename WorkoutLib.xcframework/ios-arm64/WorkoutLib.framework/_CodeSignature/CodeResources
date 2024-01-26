@@ -102,7 +102,7 @@
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/ZIK-IE-rOh-view-2zB-4q-skZ.nib</key>
 		<data>
-		831Lfx3+8P+8uRF2pM+pfWkBrOc=
+		dYVMffbNhUq+CBp2ntDgExU/o9o=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/bTJ-tu-2Ef-view-sQw-8C-RPX.nib</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/dLd-fU-dx4-view-AH4-8Y-FIi.nib</key>
 		<data>
-		9zIYQ2IUdGsDuFtev78/Oq7v2KI=
+		bNOpHr41+V0cR0FLe27eBPcwWbM=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/finishPageContent.nib</key>
 		<data>
@@ -138,7 +138,7 @@
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/tYZ-Vm-1YX-view-FaZ-4D-52g.nib</key>
 		<data>
-		gtc3Mt+qtbPhRhEQdyMq8gp2RjA=
+		rjdNhL5nCE4INxTCbf4gxxVyorM=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/vRb-8M-ekZ-view-n8b-DX-Tha.nib</key>
 		<data>
@@ -488,6 +488,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>en.lproj/profile-settings.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6XP3CCdFdJhPjaRq4S8vQQwm00M=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>es.lproj/Leyenda.plist</key>
 		<dict>
 			<key>hash</key>
@@ -592,6 +601,15 @@
 			<key>hash</key>
 			<data>
 			Gblman/yz7fwfOOhKorowAiLpOQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/profile-settings.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ivguWggJsnxBYwTdif0drcidb/Y=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -860,7 +878,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nAvLiBye4NriogXLF4mdjb2nbyK0Jxt4jEyxm6hLW0g=
+			E6k8ZZRUSXyFXEkgpBI409STbNKzSdsPip0+z05LH8s=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/bTJ-tu-2Ef-view-sQw-8C-RPX.nib</key>
@@ -874,7 +892,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rzcRcV8t4AUAJocB5SxtCrY+2KDt2w88Cuh1Zw80x7Q=
+			S+1/CTOu1IZ50etqXGkKibIcgZmIv9872957ipVTvvk=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/finishPageContent.nib</key>
@@ -923,7 +941,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8Ak0Mx/dCPeGfiS+8fRE/aGqqajzk7iSJ1WiN+YIoAs=
+			k/9hHV0qvC1bL0N/M9Z53AXfzB47ZePPOWcNL9FNFYk=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/vRb-8M-ekZ-view-n8b-DX-Tha.nib</key>
@@ -1447,6 +1465,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>en.lproj/profile-settings.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eDmTHK9wc6uRmNNWWsWMRODxazWqpc65Ej210RbtQnk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>es.lproj/Leyenda.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -1551,6 +1578,15 @@
 			<key>hash2</key>
 			<data>
 			8VR0wmnfHbU3CrsGOOwLJmrBDI2ioghSygU/jdrmy7k=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/profile-settings.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HdcLEtc8QCkSqaN4HbhVSffrXIc2f+HgcdR73odTdPU=
 			</data>
 			<key>optional</key>
 			<true/>

@@ -86,11 +86,11 @@
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/VirtualPTConfigDiabetesViewController.nib</key>
 		<data>
-		fTOJfBEoUpe+nsvBlw3Tklz9f9s=
+		hKmfk5H7Img/ds47iBgcbjWEulA=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/VirtualPTConfigViewController.nib</key>
 		<data>
-		TcLLwA69zc1fmWn1a9PFTsWHtqU=
+		OISpI2ObY1TinVBR54Vy/q8zy/E=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/VirtualPTFinishViewController.nib</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/ZIK-IE-rOh-view-2zB-4q-skZ.nib</key>
 		<data>
-		jf/KQGbWL+1JyYE3wx60IEA9Fe8=
+		831Lfx3+8P+8uRF2pM+pfWkBrOc=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/bTJ-tu-2Ef-view-sQw-8C-RPX.nib</key>
 		<data>
@@ -138,7 +138,7 @@
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/tYZ-Vm-1YX-view-FaZ-4D-52g.nib</key>
 		<data>
-		Y5Zitx+p2O8+stUop43zVPjLUjE=
+		kL7MgkkPNewEprg86wZgHiy12Gs=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/vRb-8M-ekZ-view-n8b-DX-Tha.nib</key>
 		<data>
@@ -488,6 +488,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>en.lproj/profile-settings.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6XP3CCdFdJhPjaRq4S8vQQwm00M=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>es.lproj/Leyenda.plist</key>
 		<dict>
 			<key>hash</key>
@@ -592,6 +601,15 @@
 			<key>hash</key>
 			<data>
 			Gblman/yz7fwfOOhKorowAiLpOQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/profile-settings.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ivguWggJsnxBYwTdif0drcidb/Y=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -832,14 +850,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OvNEdXBJ3COabZLD/gPQItmCSNq2nHDtF4+Nuw6k16U=
+			oI2qiCNGEj4S7zOqGwSW/YCiLLaj5tjIP51kE1nsULk=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/VirtualPTConfigViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9y37Y8Qro8O/fm2v7VPDa7ut9qNcNqufoxR821IAxUI=
+			+E/cPk6gKcqpRac1pNG397ZKNzV+1eSD4ZftPjtE4Ck=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/VirtualPTFinishViewController.nib</key>
@@ -860,7 +878,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			G3t6jDjT/UicLXJe+zLp1wDgGTXNCmDT6ZdTOnaLJtc=
+			nAvLiBye4NriogXLF4mdjb2nbyK0Jxt4jEyxm6hLW0g=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/bTJ-tu-2Ef-view-sQw-8C-RPX.nib</key>
@@ -923,7 +941,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JAWtV4551hZlhT1bRa+ArQ87lLUQ/e45X/92VqTJcCU=
+			n5Jzdlc7WHfbetF2aGFI5F8JIE/eArQPGxW/skj5rcM=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/vRb-8M-ekZ-view-n8b-DX-Tha.nib</key>
@@ -1447,6 +1465,15 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>en.lproj/profile-settings.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eDmTHK9wc6uRmNNWWsWMRODxazWqpc65Ej210RbtQnk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>es.lproj/Leyenda.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -1551,6 +1578,15 @@
 			<key>hash2</key>
 			<data>
 			8VR0wmnfHbU3CrsGOOwLJmrBDI2ioghSygU/jdrmy7k=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/profile-settings.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HdcLEtc8QCkSqaN4HbhVSffrXIc2f+HgcdR73odTdPU=
 			</data>
 			<key>optional</key>
 			<true/>
