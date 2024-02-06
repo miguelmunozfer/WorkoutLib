@@ -31900,104 +31900,104 @@
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
       "kind": "StringLiteral",
       "offset": 1576,
-      "length": 46,
-      "value": "\"https:\/\/sendohealth.com\/relevant-information\""
+      "length": 43,
+      "value": "\"https:\/\/sendohealth.com\/info-medica-apps\/\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1854,
+      "offset": 1851,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2037,
+      "offset": 2034,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2112,
+      "offset": 2109,
       "length": 23,
       "value": "\"Generar entrenamiento\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2148,
+      "offset": 2145,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2217,
+      "offset": 2214,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2230,
+      "offset": 2227,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2327,
+      "offset": 2324,
       "length": 11,
       "value": "\"Siguiente\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2351,
+      "offset": 2348,
       "length": 17,
       "value": "\"TrainingStrings\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2420,
+      "offset": 2417,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2433,
+      "offset": 2430,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2916,
+      "offset": 2913,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2979,
+      "offset": 2976,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3173,
+      "offset": 3170,
       "length": 29,
       "value": "\"tr_settings_create_training\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3533,
+      "offset": 3530,
       "length": 4,
       "value": "true"
     },
