@@ -74,7 +74,7 @@ public enum TrainingGender : Swift.String, Swift.Codable {
   public func isProfileFilled() -> Swift.Bool
   public func showVirtualPT()
   public func updateProfile(sex: WorkoutLib.TrainingGender?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?, level: Swift.Int? = nil, basalMetabolism: Swift.Int? = nil, operationDate: Foundation.Date? = nil, activityLevel: Swift.Int? = nil, generateProfile: Swift.Bool = false)
-  public func updateProfile(name: Swift.String?, lastName: Swift.String?, sex: WorkoutLib.TrainingGender?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?)
+  public func updateProfile(name: Swift.String? = nil, lastName: Swift.String? = nil, sex: WorkoutLib.TrainingGender?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?)
   public func getProfile() -> WorkoutLib.PublicProfile?
   public func showWorkoutPlan()
   public func getWorkoutPlan(_ completion: @escaping ((UIKit.UIViewController) -> ()))
