@@ -31894,14 +31894,14 @@
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/EcareViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1484,
+      "offset": 1432,
       "length": 12,
       "value": "\"back-image\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/EcareViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1751,
+      "offset": 1699,
       "length": 4,
       "value": "true"
     },
@@ -31915,63 +31915,63 @@
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/EcareViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2108,
+      "offset": 2056,
       "length": 11,
       "value": "\"ecareCell\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/EcareViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2297,
+      "offset": 2245,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/EcareViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2706,
+      "offset": 2654,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/EcareViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2761,
+      "offset": 2709,
       "length": 3,
       "value": "186"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/EcareViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2920,
+      "offset": 2868,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/EcareViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3044,
+      "offset": 2992,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/EcareViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3063,
+      "offset": 3011,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/EcareViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3211,
+      "offset": 3159,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/EcareViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3430,
+      "offset": 3378,
       "length": 4,
       "value": "true"
     },
