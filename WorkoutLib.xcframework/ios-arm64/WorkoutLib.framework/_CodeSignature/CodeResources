@@ -110,7 +110,7 @@
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/dLd-fU-dx4-view-AH4-8Y-FIi.nib</key>
 		<data>
-		g5sacT199AWlTaucWy9Td8hNeEk=
+		9zIYQ2IUdGsDuFtev78/Oq7v2KI=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/finishPageContent.nib</key>
 		<data>
@@ -138,7 +138,7 @@
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/tYZ-Vm-1YX-view-FaZ-4D-52g.nib</key>
 		<data>
-		Ueha1UU4V1YeFE7mu7iHWDRkLAI=
+		Ou7/d8Eqj/8FcG+9nctS65lc648=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/vRb-8M-ekZ-view-n8b-DX-Tha.nib</key>
 		<data>
@@ -218,7 +218,7 @@
 		</data>
 		<key>Modules/WorkoutLib.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		Z1P3RCaej0qY2EwxCZnUZ/+lpUw=
+		hYTpspz6lLsNcn9FXKBr1iyBVRY=
 		</data>
 		<key>Modules/WorkoutLib.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -234,7 +234,7 @@
 		</data>
 		<key>Modules/WorkoutLib.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		3ReqH9SVYhXBwlLfF+jo62apEAQ=
+		VbZhzpa41+oo0YLm0e8bqAp+r5Q=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -892,7 +892,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VSfGsk2Fj19d1x/fXAdt3FB4LRAL40C97QOn6zJV7lA=
+			rzcRcV8t4AUAJocB5SxtCrY+2KDt2w88Cuh1Zw80x7Q=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/finishPageContent.nib</key>
@@ -941,7 +941,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZCPJIa75rJacMFlB3pA+g0+PKJXuKObMmSplRdlZChc=
+			KLuPvlWOFuGWDmNsV8JXa/L/KGeXqBJ/ydcsYxJQ/jk=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/vRb-8M-ekZ-view-n8b-DX-Tha.nib</key>
@@ -1074,7 +1074,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			it7mIds8gah1uXk76Fs5nYs+sH490UEmu1dPyNHhnC8=
+			E+FZleiW2+LA71m9d5EBln3l0WGvJ9U8ludKYW+3vPc=
 			</data>
 		</dict>
 		<key>Modules/WorkoutLib.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -1102,7 +1102,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XkRDeWX2L1ycI2ZZ6HvXbNPAzGjUiWmyftAm8m6VctA=
+			k3R0JlSbLg9f74J6IogAlrEoLUQbLrRI4KqzWLXaNRw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
