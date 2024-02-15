@@ -45,6 +45,14 @@ public struct PublicProfile : Swift.Codable {
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
+public enum Pathologies : Swift.Int {
+  case arterialHypertension, osteoporosis, diabetes, obesity, highCholesterolOrTriglycerides, backPain, metabolicsyndrome, copd, multipleSclerosis, fibromyalgia, stroke, heartDisease
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
 public enum TrainingType : Swift.Codable {
   case diabetes, bariatrico
   public static func == (a: WorkoutLib.TrainingType, b: WorkoutLib.TrainingType) -> Swift.Bool
@@ -76,6 +84,7 @@ public enum TrainingGender : Swift.String, Swift.Codable {
   public func updateProfile(sex: WorkoutLib.TrainingGender?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?, level: Swift.Int? = nil, basalMetabolism: Swift.Int? = nil, operationDate: Foundation.Date? = nil, activityLevel: Swift.Int? = nil, generateProfile: Swift.Bool = false)
   public func updateProfile(name: Swift.String? = nil, lastName: Swift.String? = nil, sex: WorkoutLib.TrainingGender?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?)
   public func getProfile() -> WorkoutLib.PublicProfile?
+  public func setPathologies(pathologies: [WorkoutLib.Pathologies])
   public func showWorkoutPlan()
   public func getWorkoutPlan(_ completion: @escaping ((UIKit.UIViewController) -> ()))
   public func showEcareController()
@@ -176,6 +185,9 @@ public enum StringOrInt : Swift.Codable {
 extension UIKit.UIFont {
   public static func jbs_registerFont(withFilenameString filenameString: Swift.String, bundle: Foundation.Bundle)
 }
+extension WorkoutLib.Pathologies : Swift.Equatable {}
+extension WorkoutLib.Pathologies : Swift.Hashable {}
+extension WorkoutLib.Pathologies : Swift.RawRepresentable {}
 extension WorkoutLib.TrainingType : Swift.Equatable {}
 extension WorkoutLib.TrainingType : Swift.Hashable {}
 extension WorkoutLib.TrainingGender : Swift.Equatable {}
