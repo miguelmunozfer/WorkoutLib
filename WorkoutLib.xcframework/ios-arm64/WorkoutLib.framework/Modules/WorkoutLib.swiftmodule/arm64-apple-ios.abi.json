@@ -14701,253 +14701,260 @@
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3871,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 3952,
+      "offset": 3991,
       "length": 12,
       "value": "\"yyyy-MM-dd\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 4401,
+      "offset": 4440,
       "length": 19,
       "value": "\"api\/v1.2\/profiles\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 4526,
+      "offset": 4565,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 4610,
+      "offset": 4649,
       "length": 9,
       "value": "\"Bearer \""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 4649,
+      "offset": 4688,
       "length": 15,
       "value": "\"Authorization\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 4699,
+      "offset": 4738,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 4739,
+      "offset": 4778,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 4788,
+      "offset": 4827,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 4828,
+      "offset": 4867,
       "length": 8,
       "value": "\"Accept\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "BooleanLiteral",
-      "offset": 4995,
+      "offset": 5034,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "BooleanLiteral",
-      "offset": 5122,
+      "offset": 5161,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "BooleanLiteral",
-      "offset": 5224,
+      "offset": 5263,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 5558,
+      "offset": 5597,
       "length": 19,
       "value": "\"api\/v1.2\/profiles\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 5683,
+      "offset": 5722,
       "length": 5,
       "value": "\"GET\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 5722,
+      "offset": 5761,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 5762,
+      "offset": 5801,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 5811,
+      "offset": 5850,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 5851,
+      "offset": 5890,
       "length": 8,
       "value": "\"Accept\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 5894,
+      "offset": 5933,
       "length": 17,
       "value": "\"Bearer \""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 5910,
+      "offset": 5949,
       "length": 24,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 5933,
+      "offset": 5972,
       "length": 15,
       "value": "\"Authorization\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 6468,
+      "offset": 6507,
       "length": 64,
       "value": "\"could not find key \""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 6494,
+      "offset": 6533,
       "length": 2,
       "value": "\" in JSON: \""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 6531,
+      "offset": 6570,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 6651,
+      "offset": 6690,
       "length": 66,
       "value": "\"could not find type \""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 6679,
+      "offset": 6718,
       "length": 2,
       "value": "\" in JSON: \""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 6716,
+      "offset": 6755,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 6835,
+      "offset": 6874,
       "length": 69,
       "value": "\"type mismatch for type \""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 6866,
+      "offset": 6905,
       "length": 2,
       "value": "\" in JSON: \""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 6903,
+      "offset": 6942,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 7013,
+      "offset": 7052,
       "length": 65,
       "value": "\"data found to be corrupted in JSON: \""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 7077,
+      "offset": 7116,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 7161,
+      "offset": 7200,
       "length": 97,
       "value": "\"Error in read(from:ofType:) domain= \""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 7213,
+      "offset": 7252,
       "length": 1,
       "value": "\", description= \""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "StringLiteral",
-      "offset": 7257,
+      "offset": 7296,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingAuth\/VitaleAuthDataService.swift",
       "kind": "IntegerLiteral",
-      "offset": 7549,
+      "offset": 7588,
       "length": 1,
       "value": "0"
     },

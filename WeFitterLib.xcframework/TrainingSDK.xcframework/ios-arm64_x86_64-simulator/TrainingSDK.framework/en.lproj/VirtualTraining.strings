@@ -1,0 +1,125 @@
+
+/* Class = "UIButton"; normalTitle = "Volver"; ObjectID = "0ip-os-Vrk"; */
+"0ip-os-Vrk.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1Lh-Cl-BYl"; */
+"1Lh-Cl-BYl.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "LISTADO DE EJERCICIOS"; ObjectID = "1gG-Hr-ccD"; */
+"1gG-Hr-ccD.normalTitle" = "Exercises list";
+
+/* Class = "UIButton"; normalTitle = "GUIAME PASO A PASO"; ObjectID = "27A-yj-46F"; */
+"27A-yj-46F.normalTitle" = "Step by step";
+
+/* Class = "UILabel"; text = "Valora la dureza de la sesión"; ObjectID = "2q6-fn-mIw"; */
+"2q6-fn-mIw.text" = "Rate this session's difficulty";
+
+/* Class = "UILabel"; text = "Bien"; ObjectID = "4hD-dZ-bWq"; */
+"4hD-dZ-bWq.text" = "Good";
+
+/* Class = "UIButton"; normalTitle = "Continuar"; ObjectID = "8U0-Mx-1QC"; */
+"8U0-Mx-1QC.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9dG-8f-cjb"; */
+"9dG-8f-cjb.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "20'"; ObjectID = "A75-Ug-RTY"; */
+"A75-Ug-RTY.normalTitle" = "20'";
+
+/* Class = "UIButton"; normalTitle = "Guardar"; ObjectID = "AST-62-BIC"; */
+"AST-62-BIC.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "ENTRENAR"; ObjectID = "AjZ-un-cdz"; */
+"AjZ-un-cdz.normalTitle" = "Start workout";
+
+/* Class = "UILabel"; text = "Normal"; ObjectID = "BJr-qi-tqc"; */
+"BJr-qi-tqc.text" = "Fair";
+
+/* Class = "UIButton"; normalTitle = "SIGUIENTE"; ObjectID = "FKr-rv-8SQ"; */
+"FKr-rv-8SQ.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "CIRCUITO COMPLETADO"; ObjectID = "GFV-fa-AAJ"; */
+"GFV-fa-AAJ.text" = "Circuit completed";
+
+/* Class = "UILabel"; text = "INFORMACIÓN"; ObjectID = "IMa-i0-gAW"; */
+"IMa-i0-gAW.text" = "Information";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Jhj-Z8-oJG"; */
+"Jhj-Z8-oJG.text" = "Label";
+
+/* Class = "UILabel"; text = "Super"; ObjectID = "OQw-7W-V2B"; */
+"OQw-7W-V2B.text" = "Super";
+
+/* Class = "UIButton"; normalTitle = "Salir del circuito"; ObjectID = "QKV-CP-HxM"; */
+"QKV-CP-HxM.normalTitle" = "Exit the circuit";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VrK-Pj-Kkt"; */
+"VrK-Pj-Kkt.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Ejercicios"; ObjectID = "WS7-7r-Duq"; */
+"WS7-7r-Duq.title" = "Training";
+
+/* Class = "UIButton"; normalTitle = "40'"; ObjectID = "XhN-wu-TgE"; */
+"XhN-wu-TgE.normalTitle" = "40'";
+
+/* Class = "UIButton"; normalTitle = "FINALIZAR"; ObjectID = "Yjf-iw-YLa"; */
+"Yjf-iw-YLa.normalTitle" = "Finish";
+
+/* Class = "UIButton"; normalTitle = "60'"; ObjectID = "Z04-DP-ZAE"; */
+"Z04-DP-ZAE.normalTitle" = "60'";
+
+/* Class = "UILabel"; text = "Cansado"; ObjectID = "bSo-7h-PLK"; */
+"bSo-7h-PLK.text" = "Exhausted";
+
+/* Class = "UILabel"; text = "Lugar de entrenamiento"; ObjectID = "bbk-TJ-UmK"; */
+"bbk-TJ-UmK.text" = "Workout location";
+
+/* Class = "UILabel"; text = "ESTADÍSTICAS"; ObjectID = "btt-sX-i1a"; */
+"btt-sX-i1a.text" = "Stats";
+
+/* Class = "UILabel"; text = "Duración del entrenamiento"; ObjectID = "cHU-SX-oPa"; */
+"cHU-SX-oPa.text" = "Workout duration";
+
+/* Class = "UILabel"; text = "Casa"; ObjectID = "cNN-fI-WB7"; */
+"cNN-fI-WB7.text" = "Home";
+
+/* Class = "UILabel"; text = "Materiales disponibles"; ObjectID = "d56-zD-rpR"; */
+"d56-zD-rpR.text" = "Equipment for this workout?";
+
+/* Class = "UILabel"; text = "Gimnasio"; ObjectID = "eJY-67-ior"; */
+"eJY-67-ior.text" = "Gym";
+
+/* Class = "UIButton"; normalTitle = "¿Cómo funciona?"; ObjectID = "hSF-mY-hSn"; */
+"hSF-mY-hSn.normalTitle" = "How does it work?";
+
+/* Class = "UILabel"; text = "Exterior"; ObjectID = "isD-5g-0Bm"; */
+"isD-5g-0Bm.text" = "Outdoors";
+
+/* Class = "UIButton"; normalTitle = "Ya he terminado"; ObjectID = "nTl-rH-7Pw"; */
+"nTl-rH-7Pw.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "¿Cómo te encuentras hoy?"; ObjectID = "nqv-C0-kFv"; */
+"nqv-C0-kFv.text" = "How are you feling today?";
+
+/* Class = "UILabel"; text = "¿Te ha gustado?"; ObjectID = "ozZ-43-8cL"; */
+"ozZ-43-8cL.text" = "Did you like it?";
+
+/* Class = "UILabel"; text = "¿DISPONES DE EQUIPO?"; ObjectID = "p8J-Es-avZ"; */
+"p8J-Es-avZ.text" = "Do you have any equipment?";
+
+/* Class = "UIButton"; normalTitle = "30'"; ObjectID = "rcm-0I-oKU"; */
+"rcm-0I-oKU.normalTitle" = "30'";
+
+/* Class = "UINavigationItem"; title = "Ejercicios"; ObjectID = "rqS-AL-ykS"; */
+"rqS-AL-ykS.title" = "Training";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wYG-TD-VBp"; */
+"wYG-TD-VBp.text" = "Label";
+
+/* Class = "UILabel"; text = "El Virtual PT prescribe entrenamientos muy variados. Si entrenas al aire libre o en tu casa, es importante que nos especifiques de qué material dispones para tenerlo en cuenta. Si entrenas en gimnasio, consideramos que dispones de material habitual de fitness. Preparados, listos, a moverse!!"; ObjectID = "yQl-Ug-5uv"; */
+"yQl-Ug-5uv.text" = "The intelligent personal trainer  will design your workout with the equipment you have chosen. If you don't select any specific equipment, we will assume you have access to all standard equipment in a gym.";
+"u93-Oy-rOz.text" = "Choose type of cardio for this workout";
+"65k-QL-OsZ.text" = "Run/Walk";
+"JYQ-mR-Kue.text" = "On the spot exercises";
+"t1x-XO-Pzx.normalTitle" = "How does it work?";
+"GpT-Uw-P80.text" = "Phases";
