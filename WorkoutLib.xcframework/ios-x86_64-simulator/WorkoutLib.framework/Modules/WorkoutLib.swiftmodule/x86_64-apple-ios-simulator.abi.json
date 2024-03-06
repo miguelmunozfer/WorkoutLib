@@ -32790,10 +32790,80 @@
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3473,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3478,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3530,
+      "offset": 3606,
       "length": 4,
       "value": "true"
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 3766,
+      "length": 35,
+      "value": "\"Es obligatorio elegir un objetivo\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 3814,
+      "length": 17,
+      "value": "\"TrainingStrings\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 3883,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 3896,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 3931,
+      "length": 7,
+      "value": "\"Aviso\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 3951,
+      "length": 17,
+      "value": "\"TrainingStrings\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 4020,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 4033,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/mmunozfer\/Documents\/TrainingSDKV2Code\/TrainingSDKCode\/SDKCode\/TrainingProfile\/TrainingProfileViewController.swift",
