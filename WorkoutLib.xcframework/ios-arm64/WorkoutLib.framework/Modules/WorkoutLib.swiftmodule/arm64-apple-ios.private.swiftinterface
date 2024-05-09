@@ -80,6 +80,7 @@ public enum TrainingGender : Swift.String, Swift.Codable {
   public func setNavigationBarColor(color: Swift.String)
   public func setNavigationTintColor(color: Swift.String)
   public func isProfileFilled() -> Swift.Bool
+  public func setLengthUnit(_ lenghtUnit: WorkoutLib.LengthUnit)
   public func showVirtualPT()
   public func updateProfile(sex: WorkoutLib.TrainingGender?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?, level: Swift.Int? = nil, basalMetabolism: Swift.Int? = nil, operationDate: Foundation.Date? = nil, activityLevel: Swift.Int? = nil, generateProfile: Swift.Bool = false)
   public func updateProfile(name: Swift.String? = nil, lastName: Swift.String? = nil, sex: WorkoutLib.TrainingGender?, height: Swift.Int?, weigth: Swift.Int?, birthDate: Foundation.Date?)
@@ -138,6 +139,14 @@ public enum HCVimeoVideoQuality : Swift.String {
 }
 public protocol TrainingEventsDelegate : AnyObject {
   func sendEvent(_ event: WorkoutLib.TrainingEvent)
+}
+public enum LengthUnit : Swift.String, Swift.Codable {
+  case km, miles
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
 }
 public class Stat : Swift.Codable {
   public var cal: Swift.Int?
@@ -199,3 +208,6 @@ extension WorkoutLib.HCVimeoThumbnailQuality : Swift.RawRepresentable {}
 extension WorkoutLib.HCVimeoVideoQuality : Swift.Equatable {}
 extension WorkoutLib.HCVimeoVideoQuality : Swift.Hashable {}
 extension WorkoutLib.HCVimeoVideoQuality : Swift.RawRepresentable {}
+extension WorkoutLib.LengthUnit : Swift.Equatable {}
+extension WorkoutLib.LengthUnit : Swift.Hashable {}
+extension WorkoutLib.LengthUnit : Swift.RawRepresentable {}
