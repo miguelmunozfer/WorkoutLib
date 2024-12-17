@@ -102,7 +102,7 @@
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/ZIK-IE-rOh-view-2zB-4q-skZ.nib</key>
 		<data>
-		ZSI5trWueTjI3FuC/CdPGFRKRZM=
+		D3w8Xy4ouBqj/K2GzdEFagGzi9E=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/bTJ-tu-2Ef-view-sQw-8C-RPX.nib</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/dLd-fU-dx4-view-AH4-8Y-FIi.nib</key>
 		<data>
-		gMY/DY+SMWqV7BQf/pBUT1DaMTU=
+		vy3xG0iKYznDCe495k7kYiX/Tg0=
 		</data>
 		<key>Base.lproj/VirtualTraining.storyboardc/finishPageContent.nib</key>
 		<data>
@@ -202,7 +202,7 @@
 		</data>
 		<key>Headers/WorkoutLib-Swift.h</key>
 		<data>
-		bw+iHfg4VryfbMKPQ5q84DGBcaM=
+		85j512ryB2Y/+pJ55a8+0AEKkk4=
 		</data>
 		<key>Headers/WorkoutLib.h</key>
 		<data>
@@ -215,26 +215,6 @@
 		<key>Info.plist</key>
 		<data>
 		PxI5hSm83NcFOYC1OIA3lYMZucQ=
-		</data>
-		<key>Modules/WorkoutLib.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
-		<data>
-		JXnTxq2XjSrV9faQ/x7Sp4UDJig=
-		</data>
-		<key>Modules/WorkoutLib.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
-		<data>
-		+AQjufkvciZUsJ/wSSOG+Yxfysg=
-		</data>
-		<key>Modules/WorkoutLib.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
-		<data>
-		Wes4COXkQw/IWVWlYo5A555J8H4=
-		</data>
-		<key>Modules/WorkoutLib.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
-		<data>
-		+AQjufkvciZUsJ/wSSOG+Yxfysg=
-		</data>
-		<key>Modules/WorkoutLib.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
-		<data>
-		PXZoqaJpCYt9GHpdH46Wb9Fp3pU=
 		</data>
 		<key>Modules/WorkoutLib.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -254,7 +234,7 @@
 		</data>
 		<key>Modules/WorkoutLib.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		156E6wsX1ruo7duOsx7h1dpnXs0=
+		AzDCQCX401LK6fK6mhUvarNf4mk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -898,7 +878,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WD49LOcVHP00/aziHmsTK5GToDpqVRbfkh8u72k2WE4=
+			KBsRY34pARMMGoo1DYM51/DnQw3a71oP7gzd464GSr8=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/bTJ-tu-2Ef-view-sQw-8C-RPX.nib</key>
@@ -912,7 +892,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			M/bau76TyBKq3xcqDDmNBUIOHA1aNET3MVaAcr98uK4=
+			P4Fr67kCitPZKqfFbLpigDZxDm5R33zA426aiAPpenU=
 			</data>
 		</dict>
 		<key>Base.lproj/VirtualTraining.storyboardc/finishPageContent.nib</key>
@@ -1073,7 +1053,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lDWDD7s6X/M7FcX4UruJzjoAvXnn6CXkTxM7bBjQU7I=
+			WfBLs7LZuUyO5ZtQVQ98NSkKvOFXDjKs4mYnoStGQqE=
 			</data>
 		</dict>
 		<key>Headers/WorkoutLib.h</key>
@@ -1088,41 +1068,6 @@
 			<key>hash2</key>
 			<data>
 			STXzAy6zQJci09pnsTZ50ZdL6yqHEGXHB7zjGmCjf5Q=
-			</data>
-		</dict>
-		<key>Modules/WorkoutLib.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8cVocJvjFhdFbILgRXRq6Qgmr/h1fG4Qi4WnSqerpg0=
-			</data>
-		</dict>
-		<key>Modules/WorkoutLib.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ojMmXHqR1LuG4jdOWb+67xZvQzBEo1ClmR9IE+Y6eyg=
-			</data>
-		</dict>
-		<key>Modules/WorkoutLib.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			mm3shIM48NE2Sz8fE29N1KOAGPXZ7b7G8T6TIaEF+ns=
-			</data>
-		</dict>
-		<key>Modules/WorkoutLib.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ojMmXHqR1LuG4jdOWb+67xZvQzBEo1ClmR9IE+Y6eyg=
-			</data>
-		</dict>
-		<key>Modules/WorkoutLib.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			jNhoiGfz6zLR8c29F5HSx9+4lVcI1AqL72p/x09r2BA=
 			</data>
 		</dict>
 		<key>Modules/WorkoutLib.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -1157,7 +1102,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NwUSzWEQBOkf+PuQZTmXWvUF2yaUnyzpigIqpkkXwy8=
+			cslT0SfTK6FNcRu7R6ekGNOWCdJriCjJXA3PvvOc/Jg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
